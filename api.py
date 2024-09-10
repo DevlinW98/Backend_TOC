@@ -1,4 +1,4 @@
-from flask import Flask, jsonify
+from flask import Flask,render_template, jsonify
 from flask_cors import CORS
 import json
 
@@ -25,6 +25,10 @@ class Movie:
             "_Movie__director": self.__director,
             "_Movie__genre": self.__genre
         }
+
+@app.route('/')
+def home():
+    return render_template('index.html')
 
 @app.route('/movies', methods=['GET'])
 def get_movies():
