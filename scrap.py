@@ -8,18 +8,18 @@ from urllib.parse import urljoin
 from concurrent.futures import ThreadPoolExecutor
 from movie import Movie
 
-url = 'https://www.imdb.com/chart/top'
-headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36'
-}
-
-response = requests.get(url, headers=headers)
-response.raise_for_status()
-
-soup = BeautifulSoup(response.text, 'lxml')
-
-script_tag = soup.find('script', type='application/ld+json')
 def scap():
+    url = 'https://www.imdb.com/chart/top'
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36'
+    }
+
+    response = requests.get(url, headers=headers)
+    response.raise_for_status()
+
+    soup = BeautifulSoup(response.text, 'lxml')
+
+    script_tag = soup.find('script', type='application/ld+json')
     if script_tag:
         json_ld_content = script_tag.string.strip()
         with open('json_ld_content.json', 'w', encoding='utf-8') as file:
@@ -87,4 +87,4 @@ def scap():
             print(f"JSON decode error: {e}")
     else:
         print("JSON-LD script tag not found.")
-scap()
+
