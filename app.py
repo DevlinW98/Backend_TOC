@@ -37,8 +37,8 @@ def get_movies():
         movies_data = json.load(json_file)
     return jsonify(movies_data)
 
-if __name__ == '__main__':
-    app.run(debug=True)
+if __name__ == "__main__":
+    app.run(host='0.0.0.0', port=10000)
 
 def scaping_data():
     pass
