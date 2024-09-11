@@ -1,6 +1,8 @@
 from flask import Flask,render_template, jsonify
 from flask_cors import CORS
 import json
+from scrap import scap
+
 
 app = Flask(__name__)
 CORS(app)  
@@ -31,14 +33,27 @@ def home():
     return render_template('index.html')
 
 @app.route('/movies', methods=['GET'])
-def get_movies():
-   
+def get_movies():   
     with open('List_250movies.json', 'r') as json_file:
         movies_data = json.load(json_file)
     return jsonify(movies_data)
 
-if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=10000)
+@app.route('/scaping', methods=['GET'])
+def get_scaping():
+    try:
+        scap()
+        with open('List_250movies.json', 'r') as json_file:
+            movies_data = json.load(json_file)
+        return jsonify(movies_data)
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+    
+
+# if __name__ == "__main__":
+#     app.run(host='0.0.0.0', port=10000)
+
+if __name__ == '__main__':
+    app.run(debug=True)
 
 def scaping_data():
     pass

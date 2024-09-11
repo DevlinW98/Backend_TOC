@@ -1,23 +1,5 @@
 [
     {
-        "_Movie__title": "The Shawshank Redemption",
-        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
-        "_Movie__score": 9.3,
-        "_Movie__duration": "2 hours 22 minutes",
-        "_Movie__description": "A banker convicted of uxoricide forms a friendship over a quarter century with a hardened convict, while maintaining his innocence and trying to remain hopeful through simple compassion.",
-        "_Movie__director": "Frank Darabont",
-        "_Movie__genre": "Drama"
-    },
-    {
-        "_Movie__title": "The Godfather",
-        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
-        "_Movie__score": 9.2,
-        "_Movie__duration": "2 hours 55 minutes",
-        "_Movie__description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
-        "_Movie__director": "Francis Ford Coppola",
-        "_Movie__genre": "Crime, Drama"
-    },
-    {
         "_Movie__title": "The Dark Knight",
         "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
         "_Movie__score": 9,
@@ -657,15 +639,6 @@
         "_Movie__genre": "Biography, Drama, Music"
     },
     {
-        "_Movie__title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
-        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
-        "_Movie__score": 8.3,
-        "_Movie__duration": "1 hours 35 minutes",
-        "_Movie__description": "An unhinged American general orders a bombing attack on the Soviet Union, triggering a path to nuclear holocaust that a war room full of politicians and generals frantically tries to stop.",
-        "_Movie__director": "Stanley Kubrick",
-        "_Movie__genre": "Comedy, War"
-    },
-    {
         "_Movie__title": "Toy Story",
         "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_.jpg",
         "_Movie__score": 8.3,
@@ -673,6 +646,15 @@
         "_Movie__description": "A cowboy doll is profoundly threatened and jealous when a new spaceman action figure supplants him as top toy in a boy&apos;s bedroom.",
         "_Movie__director": "John Lasseter",
         "_Movie__genre": "Animation, Adventure, Comedy"
+    },
+    {
+        "_Movie__title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "1 hours 35 minutes",
+        "_Movie__description": "An unhinged American general orders a bombing attack on the Soviet Union, triggering a path to nuclear holocaust that a war room full of politicians and generals frantically tries to stop.",
+        "_Movie__director": "Stanley Kubrick",
+        "_Movie__genre": "Comedy, War"
     },
     {
         "_Movie__title": "Oldeuboi",
@@ -1791,15 +1773,6 @@
         "_Movie__genre": "Action, Adventure, Comedy"
     },
     {
-        "_Movie__title": "Jaws",
-        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYmUyYzY5ZmUtZWE2ZC00N2RiLThkYjYtNGU5YzdiNWVhMTMwXkEyXkFqcGc@._V1_.jpg",
-        "_Movie__score": 8.1,
-        "_Movie__duration": "2 hours 4 minutes",
-        "_Movie__description": "When a killer shark unleashes chaos on a beach community off Cape Cod, it&apos;s up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
-        "_Movie__director": "Steven Spielberg",
-        "_Movie__genre": "Adventure, Drama, Thriller"
-    },
-    {
         "_Movie__title": "Sherlock Jr.",
         "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZWFhOGU5NDctY2Q3YS00Y2VlLWI1NzEtZmIwY2ZiZjY4OTA2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
         "_Movie__score": 8.2,
@@ -1807,6 +1780,15 @@
         "_Movie__description": "A film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend&apos;s father&apos;s pocketwatch.",
         "_Movie__director": "Buster Keaton",
         "_Movie__genre": "Action, Comedy, Romance"
+    },
+    {
+        "_Movie__title": "Jaws",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYmUyYzY5ZmUtZWE2ZC00N2RiLThkYjYtNGU5YzdiNWVhMTMwXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 4 minutes",
+        "_Movie__description": "When a killer shark unleashes chaos on a beach community off Cape Cod, it&apos;s up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
+        "_Movie__director": "Steven Spielberg",
+        "_Movie__genre": "Adventure, Drama, Thriller"
     },
     {
         "_Movie__title": "How to Train Your Dragon",
@@ -2232,15 +2214,6 @@
         "_Movie__genre": "Drama"
     },
     {
-        "_Movie__title": "Drishyam",
-        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYmJhZmJlYTItZmZlNy00MGY0LTg0ZGMtNWFkYWU5NTA1YTNhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
-        "_Movie__score": 8.2,
-        "_Movie__duration": "2 hours 43 minutes",
-        "_Movie__description": "Desperate measures are taken by a man who tries to save his family from the dark side of the law, after they commit an unexpected crime.",
-        "_Movie__director": "Nishikant Kamat",
-        "_Movie__genre": "Crime, Drama, Mystery"
-    },
-    {
         "_Movie__title": "Aladdin",
         "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMmQwYWZjZGItYzc0OC00ZDllLTg3NjItOWIyOWYwMDljMjAyXkEyXkFqcGc@._V1_.jpg",
         "_Movie__score": 8,
@@ -2248,5 +2221,14 @@
         "_Movie__description": "A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
         "_Movie__director": "Ron Clements, John Musker",
         "_Movie__genre": "Animation, Adventure, Comedy"
+    },
+    {
+        "_Movie__title": "Gangs of Wasseypur",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMTc5NjY4MjUwNF5BMl5BanBnXkFtZTgwODM3NzM5MzE@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "5 hours 21 minutes",
+        "_Movie__description": "A clash between Sultan and Shahid Khan leads to the expulsion of Khan from Wasseypur, and ignites a deadly blood feud spanning three generations.",
+        "_Movie__director": "Anurag Kashyap",
+        "_Movie__genre": "Action, Comedy, Crime"
     }
 ]
