@@ -21,13 +21,13 @@ class Movie:
 
     def to_dict(self):
         return {
-            "_Movie__title": self.__title,
-            "_Movie__url_picture": self.__url_picture,
-            "_Movie__score": self.__score,
-            "_Movie__duration": self.__duration,
-            "_Movie__description": self.__description,
-            "_Movie__director": self.__director,
-            "_Movie__genre": self.__genre
+            "Title": self.__title,
+            "URL Picture": self.__url_picture,
+            "Score": self.__score,
+            "Duration": self.__duration,
+            "Description": self.__description,
+            "Director": self.__director,
+            "Genre": self.__genre
         }
 
 @app.route('/')
