@@ -1,11 +1,13 @@
 import scrap
-from flask import Flask, render_template, jsonify
+from flask import Flask, render_template, jsonify, send_file, render_template_string
 from flask_cors import CORS
 import json
 
 
 app = Flask(__name__)
 CORS(app)
+
+scap_status = 0
 
 class Movie:
     def __init__(self, title="", url_picture="", score="", duration="", description="", director="", genre=""):
@@ -41,13 +43,28 @@ def get_movies():
 @app.route('/scaping', methods=['GET'])
 def get_scaping():
     try:
+        global scap_status
+        scap_status = 1
         scrap.scap()
         print("Scaping")
         with open('List_250movies.json', 'r') as json_file:
             movies_data = json.load(json_file)
+        scap_status = 0
         return jsonify(movies_data)
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+
+@app.route('/status', methods=['GET'])
+def get_status():
+    global scap_status
+    print(scap_status)
+    return f"{scap_status}"
+
+@app.route('/download')
+def download_file():
+    file_path = 'List_250movies.json'
+    return send_file(file_path, as_attachment=True)
+
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port=10000)
