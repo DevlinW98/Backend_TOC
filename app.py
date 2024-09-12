@@ -33,7 +33,7 @@ def get_scaping():
         except Exception as e:
             return jsonify({"error": str(e)}), 500
     else:
-        return "Gonna scaping"
+        return jsonify({"message": "Gonna scaping"}), 200
 
 @app.route('/status', methods=['GET'])
 def get_status():
