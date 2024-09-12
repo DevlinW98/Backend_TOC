@@ -42,17 +42,17 @@ def get_movies():
 
 @app.route('/scaping', methods=['GET'])
 def get_scaping():
-    try:
-        global scap_status
+    global scap_status
+    if scap_status == 0 :
         scap_status = 1
-        scrap.scap()
-        print("Scaping")
-        with open('List_250movies.json', 'r') as json_file:
-            movies_data = json.load(json_file)
-        scap_status = 0
-        return jsonify(movies_data)
-    except Exception as e:
-        return jsonify({"error": str(e)}), 500
+        try:
+            scrap.scap()
+            scap_status = 0
+            return jsonify({"message": "Scraping completed successfully."}), 200
+        except Exception as e:
+            return jsonify({"error": str(e)}), 500
+    else:
+        return "Gonna scaping"
 
 @app.route('/status', methods=['GET'])
 def get_status():
