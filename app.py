@@ -2,33 +2,13 @@ import scrap
 from flask import Flask, render_template, jsonify, send_file, render_template_string
 from flask_cors import CORS
 import json
-
+import time
 
 app = Flask(__name__)
 CORS(app)
 
 scap_status = 0
 
-class Movie:
-    def __init__(self, title="", url_picture="", score="", duration="", description="", director="", genre=""):
-        self.__title = title
-        self.__url_picture = url_picture
-        self.__score = score
-        self.__duration = duration
-        self.__description = description
-        self.__director = director
-        self.__genre = genre
-
-    def to_dict(self):
-        return {
-            "Title": self.__title,
-            "URL Picture": self.__url_picture,
-            "Score": self.__score,
-            "Duration": self.__duration,
-            "Description": self.__description,
-            "Director": self.__director,
-            "Genre": self.__genre
-        }
 
 @app.route('/')
 def home():
@@ -46,7 +26,8 @@ def get_scaping():
     if scap_status == 0 :
         scap_status = 1
         try:
-            scrap.scap()
+            # scrap.scap()
+            time.sleep(60)
             scap_status = 0
             return jsonify({"message": "Scraping completed successfully."}), 200
         except Exception as e:
