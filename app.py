@@ -4,7 +4,6 @@ from datetime import datetime
 from flask_cors import CORS
 import json
 import time
-import os
 
 
 app = Flask(__name__)
