@@ -76,14 +76,6 @@ referers = [
 accept_languages = [
     'th-TH,th;q=0.9,en-US;q=0.8,en;q=0.7',
     'en-US,en;q=0.9',
-    'en-GB,en;q=0.8',
-    'fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7',
-    'de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7',
-    'es-ES,es;q=0.9,en-US;q=0.8,en;q=0.7',
-    'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
-    'ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7',
-    'ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7',
-    'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7'
 ]
 
 cache_controls = [
@@ -271,7 +263,6 @@ def update_movie_data(json_filename, new_movies):
 
 
 def scrap():
-    all_movies = []
 
     with Pool(processes=cpu_count()) as pool:
         result_lists = pool.map(fetch_movies, urls.values())
@@ -287,3 +278,5 @@ def scrap():
 
     print("All time: --- %s seconds ---" % (time.time() - main_start_time))
     
+if __name__ == '__main__':
+    all_movies = []
