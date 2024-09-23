@@ -1,0 +1,2234 @@
+[
+    {
+        "_Movie__title": "The Dark Knight",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMDQ5MWU2YWUtNTQ4OC00Njk5LWI0NzctMjM4OGZiNmZmNGViXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 9,
+        "_Movie__duration": "2 hours 32 minutes",
+        "_Movie__description": "Als der fiese Joker Verwüstung und Chaos über die Menschen in Gotham bringt, muss sich der &quot;dunkle Ritter&quot; einer der härtesten psychologischen Prüfungen seiner Fähigkeit, Unrecht zu bekämpfen, unterziehen.",
+        "_Movie__director": "Christopher Nolan",
+        "_Movie__genre": "Action, Krimi, Drama"
+    },
+    {
+        "_Movie__title": "The Godfather Part II",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "_Movie__score": 9,
+        "_Movie__duration": "3 hours 22 minutes",
+        "_Movie__description": "Im New York der 1920er Jahre werden das frühe Leben und die Karriere von Vito Corleone porträtiert, während dessen Sohn Michael seine Macht erweitert und den Druck auf sein Verbrechersyndikat erhöht, das bald vom Lake Tahoe in Nev...",
+        "_Movie__director": "Francis Ford Coppola",
+        "_Movie__genre": "Krimi, Drama"
+    },
+    {
+        "_Movie__title": "12 Angry Men",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNGE0OTU1MmMtNjUyZi00ZGM0LWFjMGUtZTJjYmY4ZjJhMzA5XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 9,
+        "_Movie__duration": "1 hours 36 minutes",
+        "_Movie__description": "Ein Mitglied der Geschworenen stimmt nicht schuldig, um ein Fehlurteil zu verhindern, und versucht die Mitgeschworenen dazu zu bringen, die Beweise noch einmal zu überprüfen.",
+        "_Movie__director": "Sidney Lumet",
+        "_Movie__genre": "Krimi, Drama"
+    },
+    {
+        "_Movie__title": "Schindler's List",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMjAzNTg4MzUtNzBjNC00OGE1LWE3YmQtYWNiY2UwYWJlY2YxXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 9,
+        "_Movie__duration": "3 hours 15 minutes",
+        "_Movie__description": "Im Zweiten Weltkrieg macht sich Oskar Schindler in dem von den Deutschen besetzten Polen zunehmend Sorgen um seine jüdischen Mitarbeiter, nachdem er Zeuge von deren Verfolgung durch die Nazis geworden ist.",
+        "_Movie__director": "Steven Spielberg",
+        "_Movie__genre": "Biografie, Drama, Geschichte"
+    },
+    {
+        "_Movie__title": "The Lord of the Rings: The Return of the King",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BOWRmOTdkNjctY2YxMC00Y2E4LWFkMjktMzVmNjAxN2RmODJhXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 9,
+        "_Movie__duration": "3 hours 21 minutes",
+        "_Movie__description": "Gandalf und Aragorn führen die Männer der Mittelerde in den Kampf gegen Saurons Armee, um ihn von Frodo und Sam abzulenken, die sich gerade dem Schicksalsberg mit dem Einen Ring nähern.",
+        "_Movie__director": "Peter Jackson",
+        "_Movie__genre": "Action, Abenteuer, Drama"
+    },
+    {
+        "_Movie__title": "Pulp Fiction",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZTRjYmY1NmYtMmU0Ny00OWQ4LWI5ZDUtMDE0MzU1YWZjYTFhXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.9,
+        "_Movie__duration": "2 hours 34 minutes",
+        "_Movie__description": "Die Leben zweier Auftragskiller, eines Boxers, einer Gangsterbraut und eines Pärchens, das Diner-Restaurants überfällt, werden in vier Episoden miteinander verwoben, die aus Gewalt und Erlösung bestehen.",
+        "_Movie__director": "Quentin Tarantino",
+        "_Movie__genre": "Krimi, Drama"
+    },
+    {
+        "_Movie__title": "The Lord of the Rings: The Fellowship of the Ring",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZGFmNDg3ZmMtMmMyMC00NjA5LWFmNGMtYmY2YjFhMDc5YjI1XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.9,
+        "_Movie__duration": "2 hours 58 minutes",
+        "_Movie__description": "Ein sanftmütiger Hobbit aus dem Auenland und seine acht Gefährten machen sich auf den Weg, um den mächtigen Einen Ring zu zerstören und so die Mittelerde vor dem dunklen Herrscher Sauron zu bewahren.",
+        "_Movie__director": "Peter Jackson",
+        "_Movie__genre": "Action, Abenteuer, Drama"
+    },
+    {
+        "_Movie__title": "Il buono, il brutto, il cattivo",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNjgyOWViNjYtZDFjOC00NDg1LWFmZDYtNmVmYjdiYWE5YTljXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.8,
+        "_Movie__duration": "2 hours 41 minutes",
+        "_Movie__description": "Eine betrügerische Kopfgeldjagd lässt zwei Männer ein wackeliges Bündnis gegen einen dritten eingehen, um einen Goldschatz zu finden, der in einem abgelegenen Friedhof vergraben ist.",
+        "_Movie__director": "Sergio Leone",
+        "_Movie__genre": "Abenteuer, Drama, Western"
+    },
+    {
+        "_Movie__title": "Forrest Gump",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYmM4MDY3NWUtMmI1YS00NTZjLTgwYWQtYzA1MGNkMTIxYjA4XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.8,
+        "_Movie__duration": "2 hours 22 minutes",
+        "_Movie__description": "Forrest Gump, obgleich nicht sonderlich mit Intelligenz gesegnet, war doch durch Zufall bei vielen historischen Augenblicken zugegen; Jenny Curran, seine große Liebe, entzieht sich ihm jedoch.",
+        "_Movie__director": "Robert Zemeckis",
+        "_Movie__genre": "Drama, Liebesfilm"
+    },
+    {
+        "_Movie__title": "The Lord of the Rings: The Two Towers",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMmMxYzQ4ZDgtNTNhMC00YzhjLThhYmItZTJjN2I4MTYwZjU2XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.8,
+        "_Movie__duration": "2 hours 59 minutes",
+        "_Movie__description": "Während Frodo und Sam mithilfe des gerissenen Gollum weiter auf Mordor vorrücken, setzt sich die geteilte Gemeinschaft gegen Saurons neuen Verbündeten Saruman und seine Horden von Isengart zur Wehr.",
+        "_Movie__director": "Peter Jackson",
+        "_Movie__genre": "Action, Abenteuer, Drama"
+    },
+    {
+        "_Movie__title": "Fight Club",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMzgyZThmZDctNjkwYi00YzU1LWFlY2UtYTIzNmIxZTdlZjVhXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.8,
+        "_Movie__duration": "2 hours 19 minutes",
+        "_Movie__description": "Ein unter Schlaflosigkeit leidender Büroangestellter sucht nach einer Möglichkeit, sein Leben zu ändern, und trifft dabei auf einen sorglosen Seifenhändler, der im Untergrund einen Kampfclub unterhält, der sich als etwas noch viel...",
+        "_Movie__director": "David Fincher",
+        "_Movie__genre": "Drama"
+    },
+    {
+        "_Movie__title": "Inception",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMjQwNGE0MjctMDA3Yi00MGEyLTkyNTAtMjcxMTYxOWE0ZWRkXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.8,
+        "_Movie__duration": "2 hours 28 minutes",
+        "_Movie__description": "Ein Dieb stiehlt Unternehmensgeheimnisse mithilfe einer Technologie für gemeinsames Träumen. Dann erhält er den Auftrag, eine Idee im Kopf eines Geschäftsführers festzusetzen.",
+        "_Movie__director": "Christopher Nolan",
+        "_Movie__genre": "Action, Abenteuer, Science-Fiction"
+    },
+    {
+        "_Movie__title": "Star Wars: Episode V - The Empire Strikes Back",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYWVhZWQyN2EtNzZhNC00ZDIxLWIxNzEtMDliNmIyYzc5ZTE5XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.7,
+        "_Movie__duration": "2 hours 4 minutes",
+        "_Movie__description": "Nachdem die Rebellen auf ihrem neuen Stützpunkt brutal vom Imperium überwältigt worden sind, macht Luke Skywalker bei Meister Yoda einen Jedi-Kurs für Fortgeschrittene, während seine Freunde von Darth Vader verfolgt werden, der da...",
+        "_Movie__director": "Irvin Kershner",
+        "_Movie__genre": "Action, Abenteuer, Fantasy"
+    },
+    {
+        "_Movie__title": "The Matrix",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYjM1YzE0MzMtMDM4Ni00M2M4LWEyYzItNGFjMDkxZTcyNTEyXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.7,
+        "_Movie__duration": "2 hours 16 minutes",
+        "_Movie__description": "Ein Computerhacker erfährt von mysteriösen Rebellen die Wahrheit über seine Realität und seine Rolle im Krieg gegen deren Kontrolleure.",
+        "_Movie__director": "Lana Wachowski, Lilly Wachowski",
+        "_Movie__genre": "Action, Science-Fiction"
+    },
+    {
+        "_Movie__title": "Goodfellas",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZTUzZjc3Y2ItNDlhOC00MmY4LWIxMWQtYTlhZjk4ZGI5YWQ3XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.7,
+        "_Movie__duration": "2 hours 25 minutes",
+        "_Movie__description": "Henry Hill und seine Freunde behaupten sich bei ihrem Aufstieg in der Bandenhierarchie.",
+        "_Movie__director": "Martin Scorsese",
+        "_Movie__genre": "Biografie, Krimi, Drama"
+    },
+    {
+        "_Movie__title": "One Flew Over the Cuckoo's Nest",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMWNjNTMxODQtNThlNy00ZDdkLWIxNGYtZWMyMGQzZjZiZGJmXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.7,
+        "_Movie__duration": "2 hours 13 minutes",
+        "_Movie__description": "Ein Krimineller täuscht, nachdem er wieder einmal in Schwierigkeiten geraten ist, eine Geisteskrankheit vor und wird in eine psychiatrische Anstalt eingewiesen, wo er gegen eine repressive Krankenschwester rebelliert und die verän...",
+        "_Movie__director": "Milos Forman",
+        "_Movie__genre": "Drama"
+    },
+    {
+        "_Movie__title": "Interstellar",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNmIwM2E3YjMtYWUxYi00M2ZkLWFmMzktZWFiYTU4MGM2YTk2XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.7,
+        "_Movie__duration": "2 hours 49 minutes",
+        "_Movie__description": "Ein Forscherteam reist auf der Suche nach neuen Welten durch ein Wurmloch im Universum, um das Überleben der Menschheit sicherzustellen.",
+        "_Movie__director": "Christopher Nolan",
+        "_Movie__genre": "Abenteuer, Drama, Science-Fiction"
+    },
+    {
+        "_Movie__title": "Se7en",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMDZjNjZlNjQtZjY5Ny00ODdhLTlhYTAtOTc3ZmMyOTcyMzhhXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.6,
+        "_Movie__duration": "2 hours 7 minutes",
+        "_Movie__description": "Zwei Kripobeamte, ein Neuling und ein altgedienter Fuchs jagen einen Serienmörder, der die sieben Todsünden als seinen Modus Operandi verwendet.",
+        "_Movie__director": "David Fincher",
+        "_Movie__genre": "Krimi, Drama, Mystery"
+    },
+    {
+        "_Movie__title": "It's a Wonderful Life",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
+        "_Movie__score": 8.6,
+        "_Movie__duration": "2 hours 10 minutes",
+        "_Movie__description": "Ein Engel hilft einem barmherzigen, aber ebenso frustrierten Geschäftsmann, seine Verzweiflung zu überwinden, indem er ihm zeigt, wie das Leben ausgesehen hätte, wenn er niemals existiert hätte.",
+        "_Movie__director": "Frank Capra",
+        "_Movie__genre": "Drama, Familienfilm, Fantasy"
+    },
+    {
+        "_Movie__title": "Shichinin no samurai",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYTVmN2RjMjMtMjEzOC00NDBjLTljNmUtMTBlZjJlYzU5NGU0XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.6,
+        "_Movie__duration": "3 hours 27 minutes",
+        "_Movie__description": "Ein armes Dorf wird ständig von Banditen überfallen, bis es zu seiner Verteidigung sieben arbeitslose Samurai anheuert.",
+        "_Movie__director": "Akira Kurosawa",
+        "_Movie__genre": "Action, Drama"
+    },
+    {
+        "_Movie__title": "The Silence of the Lambs",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMTM5N2JiN2YtNmVmZS00YTA4LWI0NDgtMzFiMjRmZDU2YmUzXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.6,
+        "_Movie__duration": "1 hours 58 minutes",
+        "_Movie__description": "Eine junge FBI-Agentenanwärterin muss sich einem inhaftierten und manipulativen Mörder anvertrauen, um von ihm die notwendige Hilfe zu erhalten, einen anderen Serienmörder fassen zu können, der seinen Opfern die Haut abzieht.",
+        "_Movie__director": "Jonathan Demme",
+        "_Movie__genre": "Krimi, Drama, Thriller"
+    },
+    {
+        "_Movie__title": "Saving Private Ryan",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BODhhNmFhMWMtYmUxOC00NzNmLWE5NzUtY2Q0ZDVhMjg5MWEwXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.6,
+        "_Movie__duration": "2 hours 49 minutes",
+        "_Movie__description": "Im Anschluss an die Landung in der Normandie begibt sich eine Gruppe von US-Soldaten hinter die feindlichen Linien, um einen Fallschirmjäger herauszuholen, dessen Bruder im Kampf gefallen ist.",
+        "_Movie__director": "Steven Spielberg",
+        "_Movie__genre": "Drama, Kriegsfilm"
+    },
+    {
+        "_Movie__title": "Cidade de Deus",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BODQ2MTcyMTEtNWFjMS00MTc4LTk5YTMtMWE0NDczZDZhMTg3XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.6,
+        "_Movie__duration": "2 hours 10 minutes",
+        "_Movie__description": "Zwei Jungen, die in einem gewalttätigen Stadtviertel Rio de Janeiros aufwachsen, gehen unterschiedliche Wege: der eine wird Fotograf, der andere Drogenhändler.",
+        "_Movie__director": "Fernando Meirelles, Kátia Lund",
+        "_Movie__genre": "Krimi, Drama"
+    },
+    {
+        "_Movie__title": "La vita è bella",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYmZhNTZmMTEtMjQ4OC00MmRkLTkzYjItNmVjZWFjNjdlYjNkXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.6,
+        "_Movie__duration": "1 hours 56 minutes",
+        "_Movie__description": "Als ein aufgeschlossener jüdischer Buchhändler und sein Sohn Opfer des Holocausts werden, gelingt es diesem durch eine perfekte Mischung aus Willenskraft, Humor und Fantasie, seinen Sohn vor den Gefahren im Lager zu bewahren.",
+        "_Movie__director": "Roberto Benigni",
+        "_Movie__genre": "Komödie, Drama, Liebesfilm"
+    },
+    {
+        "_Movie__title": "The Green Mile",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNTEyY2E4OGItZGE4Yy00OTI1LThmMWMtNDIyMmY3YzU0MGY0XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.6,
+        "_Movie__duration": "3 hours 9 minutes",
+        "_Movie__description": "Die Gefängnisaufseher des Todestraktes verstört einer ihrer neuen Insassen: Ein Schwarzer, der wegen Vergewaltigung und Kindermord angeklagt ist, besitzt auch eine mysteriöse Gabe.",
+        "_Movie__director": "Frank Darabont",
+        "_Movie__genre": "Krimi, Drama, Fantasy"
+    },
+    {
+        "_Movie__title": "Terminator 2: Judgment Day",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "_Movie__score": 8.6,
+        "_Movie__duration": "2 hours 17 minutes",
+        "_Movie__description": "Ein Cyborg, der identisch mit dem ist, der beim Versuch scheiterte, Sarah Connor umzubringen, soll nun ihren jungen Sohn vor einem weiterentwickelten Cyborg schützen, der ganz aus flüssigem Metall besteht.",
+        "_Movie__director": "James Cameron",
+        "_Movie__genre": "Action, Abenteuer, Science-Fiction"
+    },
+    {
+        "_Movie__title": "Star Wars",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BN2Q5OGZkODktYjkxNy00MzZlLTg5MmEtY2Q1M2YzNzg4ODllXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.6,
+        "_Movie__duration": "2 hours 1 minutes",
+        "_Movie__description": "Luke Skywalker verbündet sich mit einem Jedi-Ritter, einem großspurigen Piloten, einem Wookie und zwei Droiden, um die Galaxie vor der Welt zerstörenden Raumstation des Imperiums zu bewahren, während er gleichzeitig Prinzessin Lei...",
+        "_Movie__director": "George Lucas",
+        "_Movie__genre": "Action, Abenteuer, Fantasy"
+    },
+    {
+        "_Movie__title": "Back to the Future",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMWY0NjZjZjgtZjM3ZC00NTExLTkzNzYtYzJhMzk2ODNiNzgxXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.5,
+        "_Movie__duration": "1 hours 56 minutes",
+        "_Movie__description": "Marty McFly, ein 17-jähriger Highschool-Student, wird versehentlich 30 Jahre zurück in die Vergangenheit geschickt, und zwar in einem DeLorean mit eingebauter Zeitmaschine, die sein engster Freund, der eigenwillige Wissenschaftler...",
+        "_Movie__director": "Robert Zemeckis",
+        "_Movie__genre": "Abenteuer, Komödie, Science-Fiction"
+    },
+    {
+        "_Movie__title": "Sen to Chihiro no kamikakushi",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNWJlMmQ0ZjktNTFiYy00YzQ5LTg5NGQtY2NjNjRjMTRhMDJjXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.6,
+        "_Movie__duration": "2 hours 4 minutes",
+        "_Movie__description": "Während ihre Familie in die Vorstadt zieht, durchstreift ein missmutiges 10-jähriges Mädchen eine Welt, die von Göttern, Hexen und Geistern regiert wird, und in der sich Menschen in Bestien verwandeln.",
+        "_Movie__director": "Hayao Miyazaki",
+        "_Movie__genre": "Animation, Abenteuer, Familienfilm"
+    },
+    {
+        "_Movie__title": "The Pianist",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BOWVmOTg1MDItZjQ1Zi00ZmE1LWIwMWEtNDBhZmU5ZDA2NWQyXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.5,
+        "_Movie__duration": "2 hours 30 minutes",
+        "_Movie__description": "Ein polnischer, jüdischer Musiker versucht im Zweiten Weltkrieg die Zerstörung des Warschauer Ghettos zu überleben.",
+        "_Movie__director": "Roman Polanski",
+        "_Movie__genre": "Biografie, Drama, Musikfilm"
+    },
+    {
+        "_Movie__title": "Gisaengchung",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMGFhZjc4Y2YtNTk2OS00NTllLWIzZDUtMWUxNTk2NzVkOWY1XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.5,
+        "_Movie__duration": "2 hours 12 minutes",
+        "_Movie__description": "Alle Arbeitslosen, Ki-taek Familie nimmt eigentümliche Interesse an den wohlhabenden und glamourösen Parks für Ihren Lebensunterhalt, bis Sie in einem unerwarteten Vorfall verstrickt.",
+        "_Movie__director": "Bong Joon Ho",
+        "_Movie__genre": "Drama, Thriller"
+    },
+    {
+        "_Movie__title": "Psycho",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMTgzNTkzNTc2Ml5BMl5BanBnXkFtZTgwNDg4ODE4MzE@._V1_.jpg",
+        "_Movie__score": 8.5,
+        "_Movie__duration": "1 hours 49 minutes",
+        "_Movie__description": "Eine Sekretärin aus Phoenix unterschlägt 40.000 Dollar, die für einen Kunden ihres Arbeitgebers bestimmt waren, sucht das Weite und mietet sich in einem abgelegenen Motel ein, das ein junger Mann betreibt, den seine Mutter dominiert.",
+        "_Movie__director": "Alfred Hitchcock",
+        "_Movie__genre": "Horror, Mystery, Thriller"
+    },
+    {
+        "_Movie__title": "Gladiator",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNWNmYTU2ZmItMTBjYS00OGJmLTliMDgtN2VkNmU4OGQ2NjZjXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.5,
+        "_Movie__duration": "2 hours 35 minutes",
+        "_Movie__description": "Ein römischer General wird verraten und seine Familie durch den korrupten Sohn eines Kaisers ermordet. Der General kehrt als Gladiator nach Rom zurück, um Rache zu nehmen.",
+        "_Movie__director": "Ridley Scott",
+        "_Movie__genre": "Action, Abenteuer, Drama"
+    },
+    {
+        "_Movie__title": "The Lion King",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZjk3NjI3M2MtYWQwZi00MDRjLTk1NDMtMDMwYmU2NTQ3Nzc4XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.5,
+        "_Movie__duration": "1 hours 28 minutes",
+        "_Movie__description": "Löwenbaby und zukünftiger König Simba sucht nach seiner Identität. Seine ständige Gefallsucht und Neigung, seine Grenzen auszutesten, bringen ihn jedoch manchmal in Schwierigkeiten.",
+        "_Movie__director": "Roger Allers, Rob Minkoff",
+        "_Movie__genre": "Animation, Abenteuer, Drama"
+    },
+    {
+        "_Movie__title": "Spider-Man: Across the Spider-Verse",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZjI5MjFiZmQtNGQ4Ni00OThjLWE3OTctOGI4NmZiNmZmZmNmXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.6,
+        "_Movie__duration": "2 hours 20 minutes",
+        "_Movie__description": "Miles Morales kehrt im 2. Teil der Spider-Verse-Saga zurück, reist durch das Multiversum und trifft auf ein Team von Spider-People. Uneinig über den Umgang mit einer neuen Bedrohung definiert Miles neu, was es bedeutet, ein Held z...",
+        "_Movie__director": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",
+        "_Movie__genre": "Animation, Action, Abenteuer"
+    },
+    {
+        "_Movie__title": "The Departed",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNzcxMWIwYjktMzY4Mi00NjEwLTllYzYtZWMxNzFjMWU0ZmYyXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.5,
+        "_Movie__duration": "2 hours 31 minutes",
+        "_Movie__description": "Ein verdeckter Ermittler und ein Maulwurf bei der Polizei versuchen sich gegenseitig zu identifizieren, während sie eine irische Verbrecherbande in South Boston unterwandern.",
+        "_Movie__director": "Martin Scorsese",
+        "_Movie__genre": "Krimi, Drama, Thriller"
+    },
+    {
+        "_Movie__title": "Whiplash",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNTZiZDhjNjMtYzhlMy00MmQwLWIzNzEtZGNjMmQwYTE0YjY3XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.5,
+        "_Movie__duration": "1 hours 46 minutes",
+        "_Movie__description": "Ein vielversprechender junger Schlagzeuger schreibt sich an einem gnadenlos strengen Musikkonservatorium ein, wo seine hochfliegenden Träume von einem Lehrer gefördert werden, der vor nichts zurückschreckt, wenn es darum geht, das...",
+        "_Movie__director": "Damien Chazelle",
+        "_Movie__genre": "Drama, Musikfilm"
+    },
+    {
+        "_Movie__title": "American History X",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMzhiOTQ0NDItOTg0Zi00OGVmLWE0OGEtMTI4NDM0NWMxZWU4XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.5,
+        "_Movie__duration": "1 hours 59 minutes",
+        "_Movie__description": "Ein ehemaliger Neo-Nazi und Skinhead versucht seinen jüngeren Bruder davon abzuhalten, den gleichen falschen Weg zu gehen wie er selbst.",
+        "_Movie__director": "Tony Kaye",
+        "_Movie__genre": "Krimi, Drama"
+    },
+    {
+        "_Movie__title": "Léon",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNGNiMzAxZTMtYTQzMS00ZTg1LTg1M2ItZTk3NjliN2Q3MDZmXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.5,
+        "_Movie__duration": "1 hours 50 minutes",
+        "_Movie__description": "Nachdem ihre Familie ermordet wurde, wird Mathilda, ein 12-jähriges Mädchen, von Léon, einem professionellen Killer, widerwillig bei sich aufgenommen. Léon und Mathilda entwickeln eine ungewöhnliche Beziehung, da sie zu seinem Sch...",
+        "_Movie__director": "Luc Besson",
+        "_Movie__genre": "Action, Krimi, Drama"
+    },
+    {
+        "_Movie__title": "Hotaru no haka",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMTQ4MjQ1NDI5Ml5BMl5BanBnXkFtZTcwMTUwMjUxMQ@@._V1_.jpg",
+        "_Movie__score": 8.5,
+        "_Movie__duration": "1 hours 28 minutes",
+        "_Movie__description": "Während des Zweiten Weltkriegs ringen ein Junge und seine kleine Schwester in Japan ums Überleben.",
+        "_Movie__director": "Isao Takahata",
+        "_Movie__genre": "Animation, Drama, Kriegsfilm"
+    },
+    {
+        "_Movie__title": "The Prestige",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMGM4NDE5ZmMtY2MwZC00YjMyLWEzM2ItNmQwODQ4ZWQ2MjE4XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.5,
+        "_Movie__duration": "2 hours 10 minutes",
+        "_Movie__description": "Zwei Zauberkünstler beginnen einen Wettstreit darüber, wer als erster die ultimative Bühnenillusion erschaffen kann.",
+        "_Movie__director": "Christopher Nolan",
+        "_Movie__genre": "Drama, Mystery, Science-Fiction"
+    },
+    {
+        "_Movie__title": "Seppuku",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZjcxMjY5MGItYTU0MC00OGIxLWE5YjgtMzM3ODMwMzg2MTFkXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.6,
+        "_Movie__duration": "2 hours 13 minutes",
+        "_Movie__description": "Ein älterer Ronin-Samurai kommt im Haus eines Feudalherrn an und bittet um einen ehrenwerten Ort, an dem er Selbstmord begehen kann. Aber als der Ronin nach einem jüngeren Samurai fragt, der vor ihm ankam, nehmen die Dinge eine un...",
+        "_Movie__director": "Masaki Kobayashi",
+        "_Movie__genre": "Action, Drama, Mystery"
+    },
+    {
+        "_Movie__title": "Dune: Part Two",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYTAxZjA5NTQtMTJhZC00NjMwLTk5OGUtYmQ3MDM2M2NkMjE1XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.5,
+        "_Movie__duration": "2 hours 46 minutes",
+        "_Movie__description": "Paul Atreides schließt sich mit Chani und den Fremen zusammen, um sich an den Verschwörern zu rächen, die seine Familie zerstört haben.",
+        "_Movie__director": "Denis Villeneuve",
+        "_Movie__genre": "Action, Abenteuer, Drama"
+    },
+    {
+        "_Movie__title": "The Usual Suspects",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMDRiZWZjMjQtMWE2Zi00NDgzLWI2MWItMDA1OTUyOTc4YmYyXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.5,
+        "_Movie__duration": "1 hours 46 minutes",
+        "_Movie__description": "Der einzige Überlebende erzählt, welche verzwackten Ereignisse zu einer Schießerei auf einem Schiff geführt haben, die damit begann, dass fünf Verbrecher sich bei einer angeblich wahllosen polizeilichen Gegenüberstellung trafen.",
+        "_Movie__director": "Bryan Singer",
+        "_Movie__genre": "Krimi, Drama, Mystery"
+    },
+    {
+        "_Movie__title": "Casablanca",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNmJkODYwMGUtNTFjMC00MDNkLTlmNTgtN2E4YTllZTUxYmEyXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.5,
+        "_Movie__duration": "1 hours 42 minutes",
+        "_Movie__description": "In Casablanca, Marokko, trifft ein zynischer amerikanischer Auswanderer im Dezember 1941 auf eine frühere Geliebte. Dies führt zu nicht vorhergesehenen Komplikationen.",
+        "_Movie__director": "Michael Curtiz",
+        "_Movie__genre": "Drama, Liebesfilm, Kriegsfilm"
+    },
+    {
+        "_Movie__title": "Intouchables",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BODE3ZGIwODctN2QwOC00YzMwLWJjMjUtZTU0MzdiYjUxZTFmXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.5,
+        "_Movie__duration": "1 hours 52 minutes",
+        "_Movie__description": "Nachdem er durch einen Paragliding-Unfall gelähmt ist, stellt ein Aristokrat einen jungen Mann aus der Vorstadt als seinen Pfleger ein.",
+        "_Movie__director": "Olivier Nakache, Éric Toledano",
+        "_Movie__genre": "Komödie, Drama"
+    },
+    {
+        "_Movie__title": "Nuovo Cinema Paradiso",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMTljNzc4YWEtYTZlMS00ODMyLWIwMTAtNWQxY2VkMDEwYTk5XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.5,
+        "_Movie__duration": "2 hours 54 minutes",
+        "_Movie__description": "Ein Filmemacher erinnert sich seiner Kindheit, als er sich in seinem Dorfkino in die Wunderwelt des Zelluloids verliebte und eine tiefe Freundschaft mit dem Filmvorführer schloss.",
+        "_Movie__director": "Giuseppe Tornatore",
+        "_Movie__genre": "Drama, Liebesfilm"
+    },
+    {
+        "_Movie__title": "Modern Times",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNDMwMzEwMmItNmE2Zi00MjJjLTkwZTQtODI2NGYyYTJjZTNiXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.5,
+        "_Movie__duration": "1 hours 27 minutes",
+        "_Movie__description": "Der Tramp versucht mit der Hilfe einer jungen obdachlosen Frau in der modernen industriellen Gesellschaft zu leben.",
+        "_Movie__director": "Charles Chaplin",
+        "_Movie__genre": "Komödie, Drama, Liebesfilm"
+    },
+    {
+        "_Movie__title": "Alien",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BOGYzYjUyYmUtNDc4Ny00YThmLWI4YjctY2VlYjBhMDU0NmM1XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.5,
+        "_Movie__duration": "1 hours 57 minutes",
+        "_Movie__description": "Nachdem ein Raumfrachter eine unbekannte Funkmeldung als Notrufsignal interpretiert, folgt er ihm und landet auf einem Mond, wo eines der Besatzungsmitglieder von einem mysteriösen Lebewesen angegriffen wird. Als die Besatzung sch...",
+        "_Movie__director": "Ridley Scott",
+        "_Movie__genre": "Horror, Science-Fiction"
+    },
+    {
+        "_Movie__title": "Rear Window",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMTU1NzUyNDg3Ml5BMl5BanBnXkFtZTgwNzA1NjM0MTE@._V1_.jpg",
+        "_Movie__score": 8.5,
+        "_Movie__duration": "1 hours 52 minutes",
+        "_Movie__description": "Ein an den Rollstuhl gefesselter Fotograf beobachtet seine Nachbarn vom Fenster seiner Wohnung aus und gelangt dabei zu der Überzeugung, dass einer von ihnen ein Mörder ist.",
+        "_Movie__director": "Alfred Hitchcock",
+        "_Movie__genre": "Mystery, Thriller"
+    },
+    {
+        "_Movie__title": "C'era una volta il West",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNDIxODM2ODAzM15BMl5BanBnXkFtZTgwNDI4OTU0MTE@._V1_.jpg",
+        "_Movie__score": 8.5,
+        "_Movie__duration": "2 hours 46 minutes",
+        "_Movie__description": "Ein geheimnisvoller Fremder mit einer Mundharmonika tut sich mit einem berüchtigten Desperado zusammen, um eine wunderschöne Witwe vor einem gnadenlosen Killer zu schützen, der für die Eisenbahngesellschaft arbeitet.",
+        "_Movie__director": "Sergio Leone",
+        "_Movie__genre": "Drama, Western"
+    },
+    {
+        "_Movie__title": "City Lights",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMjEzOTM2NTY0Nl5BMl5BanBnXkFtZTgwNzY2MjcyMjE@._V1_.jpg",
+        "_Movie__score": 8.5,
+        "_Movie__duration": "1 hours 27 minutes",
+        "_Movie__description": "Mithilfe eines reichen, aber launischen Gewohnheitstrinkers häuft ein vertrauensseliger Vagabund, der sich in ein blindes Blumenmädchen verliebt hat, möglichst viel Geld an, um ihr medizinische Hilfe zukommen zu lassen.",
+        "_Movie__director": "Charles Chaplin",
+        "_Movie__genre": "Komödie, Drama, Liebesfilm"
+    },
+    {
+        "_Movie__title": "Django Unchained",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMTNmZTA3NDMtYzlkNC00ZmNmLWI1MjUtMjYyOWE3ZTQ4ODFhXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.5,
+        "_Movie__duration": "2 hours 45 minutes",
+        "_Movie__description": "Mit der Hilfe eines deutschen Kopfgeldjägers macht sich ein befreiter Sklave auf den Weg, seine Frau vor einem brutalen Plantagenbesitzer in Mississippi zu retten.",
+        "_Movie__director": "Quentin Tarantino",
+        "_Movie__genre": "Komödie, Drama, Western"
+    },
+    {
+        "_Movie__title": "Apocalypse Now",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYTFiYzc0YzctOWU1My00NGNlLWI0MzYtNjdkNDM5YWE3MGVjXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.4,
+        "_Movie__duration": "2 hours 27 minutes",
+        "_Movie__description": "Während des Vietnamkrieges wird Captain Willard auf eine gefährliche Mission nach Kambodscha geschickt, um dort einen abtrünnigen Oberst umzubringen, der sich bei einem einheimischen Volksstamm selbst zum Gott erklärt hat.",
+        "_Movie__director": "Francis Ford Coppola",
+        "_Movie__genre": "Drama, Mystery, Kriegsfilm"
+    },
+    {
+        "_Movie__title": "Memento",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNjgwZDE2YjMtOTFmMy00M2NmLTg5MDAtMzUyNmVkOWY4MDEzXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.4,
+        "_Movie__duration": "1 hours 53 minutes",
+        "_Movie__description": "Ein Mann versucht, die Suche nach dem Mörder seiner Frau und den Verlust seines Kurzzeitgedächtnisses unter einen Hut zu bringen, auch wenn das erst einmal ein Hindernis zu sein scheint.",
+        "_Movie__director": "Christopher Nolan",
+        "_Movie__genre": "Mystery, Thriller"
+    },
+    {
+        "_Movie__title": "WALL·E",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYzRiZWI5NzMtNGViOS00ZjYxLWI2ZDEtNDU5NTMxMGNlZGRlXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.4,
+        "_Movie__duration": "1 hours 38 minutes",
+        "_Movie__description": "In ferner Zukunft tritt ein kleiner müllsammelnder Roboter versehentlich eine Reise in den Weltraum an, die letzten Endes über das Schicksal der Menschheit entscheiden wird.",
+        "_Movie__director": "Andrew Stanton",
+        "_Movie__genre": "Animation, Abenteuer, Familienfilm"
+    },
+    {
+        "_Movie__title": "Raiders of the Lost Ark",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYjk4OTY5MDQtMDQ0MC00ODQxLTg3NzQtMzk3ZTBjYzNkMWI5XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.4,
+        "_Movie__duration": "1 hours 55 minutes",
+        "_Movie__description": "Der Archäologe und Abenteurer Indiana Jones wird von der US-Regierung beauftragt, die Bundeslade noch vor den Nazis zu finden.",
+        "_Movie__director": "Steven Spielberg",
+        "_Movie__genre": "Action, Abenteuer"
+    },
+    {
+        "_Movie__title": "12th Fail",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNTE3OTIxZDYtNjA0NC00N2YxLTg1NGQtOTYxNmZkMDkwOWNjXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.9,
+        "_Movie__duration": "2 hours 27 minutes",
+        "_Movie__description": "Die wahre Geschichte des IPS-Beamten Manoj Kumar Sharma und der IRS-Beamtin Shraddha Joshi.",
+        "_Movie__director": "Vidhu Vinod Chopra",
+        "_Movie__genre": "Biografie, Drama"
+    },
+    {
+        "_Movie__title": "Das Leben der Anderen",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BN2Q0NzljMTItOTc5YS00YWMxLTgwODUtZDI4NzhiOTcwMmVmXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.4,
+        "_Movie__duration": "2 hours 17 minutes",
+        "_Movie__description": "Ostberlin 1984: Ein Stasi-Offizier überwacht einen Schriftsteller und dessen Liebhaberin, als er feststellt, dass er immer mehr in deren Leben hineingezogen wird.",
+        "_Movie__director": "Florian Henckel von Donnersmarck",
+        "_Movie__genre": "Drama, Mystery, Thriller"
+    },
+    {
+        "_Movie__title": "Sunset Blvd.",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMTc5Nzc1ODk0M15BMl5BanBnXkFtZTgwNzg1MTczMTE@._V1_.jpg",
+        "_Movie__score": 8.4,
+        "_Movie__duration": "1 hours 50 minutes",
+        "_Movie__description": "Ein heruntergekommener Drehbuchautor schreibt für einen früheren Stummfilmstar, der von der Leinwand Hollywoods verschwunden ist, ein Drehbuch.",
+        "_Movie__director": "Billy Wilder",
+        "_Movie__genre": "Drama, Film Noir"
+    },
+    {
+        "_Movie__title": "Avengers: Infinity War",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNzdhMWZlYjQtMWViYS00MjA3LTg2YjAtMmI3YzE2MTRjZjQ0XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.4,
+        "_Movie__duration": "2 hours 29 minutes",
+        "_Movie__description": "Die Avengers und ihre Verbündeten müssen bereit sein, alles zu opfern, um den mächtigen Thanos zu besiegen, bevor sein galaktischer Zerstörungsplan dem Universum ein Ende bereitet.",
+        "_Movie__director": "Anthony Russo, Joe Russo",
+        "_Movie__genre": "Action, Abenteuer, Science-Fiction"
+    },
+    {
+        "_Movie__title": "Paths of Glory",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMDdmNWFhZDUtM2YxNS00ZjY1LTllM2QtMDAxNDgyY2JjODI4XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.4,
+        "_Movie__duration": "1 hours 28 minutes",
+        "_Movie__description": "Nachdem sie sich geweigert hatten, eine feindliche Stellung anzugreifen, klagt ein General die Soldaten der Feigheit an und ihr befehlshabender Offizier muss sie verteidigen.",
+        "_Movie__director": "Stanley Kubrick",
+        "_Movie__genre": "Drama, Kriegsfilm"
+    },
+    {
+        "_Movie__title": "Spider-Man: Into the Spider-Verse",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMWRiYjY3YzAtMzJhMy00M2M2LWFhYzUtYjQzM2QwYTg0YTM1XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.4,
+        "_Movie__duration": "1 hours 57 minutes",
+        "_Movie__description": "Spider-Man kreuzt parallele Dimensionen und verbündet sich mit den Wandkrabblern der anderen Dimensionen, um eine Bedrohung für alle Realitäten zu stoppen.",
+        "_Movie__director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+        "_Movie__genre": "Animation, Action, Abenteuer"
+    },
+    {
+        "_Movie__title": "Witness for the Prosecution",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNmNlZTdjN2MtYzYxZi00YzM5LWExYTctYjQ3ZGNiMTYyOGVmXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.4,
+        "_Movie__duration": "1 hours 56 minutes",
+        "_Movie__description": "Ein erfahrener britischer Rechtsanwalt muss seinen Mandanten in einem Mordprozess verteidigen, der einige Überraschungen auf Lager hat.",
+        "_Movie__director": "Billy Wilder",
+        "_Movie__genre": "Krimi, Drama, Mystery"
+    },
+    {
+        "_Movie__title": "The Shining",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNGQ1N2Y4ZWUtOGFlOC00OWZmLTlmNmQtOWNlYjA3ZjNhN2U1XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.4,
+        "_Movie__duration": "2 hours 26 minutes",
+        "_Movie__description": "Eine Familie fährt in ein abgelegenes Hotel, um dort den Winter zu verbringen. Dort angekommen lassen böse und spirituelle Kräfte den Vater schließlich gewalttätig werden und der übersinnlich begabte Sohn hat schreckliche Vorahnun...",
+        "_Movie__director": "Stanley Kubrick",
+        "_Movie__genre": "Drama, Horror"
+    },
+    {
+        "_Movie__title": "The Great Dictator",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BM2E5ZTdhMzctMTBkMS00YjlkLWExYjMtMmFiMWFiODZiYTg5XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.4,
+        "_Movie__duration": "2 hours 5 minutes",
+        "_Movie__description": "Diktator Adenoid Hynkel bemüht sich, sein Reich zu erweitern, während ein armer jüdischer Friseur der Verfolgung durch Hynkels Regime zu entgehen versucht.",
+        "_Movie__director": "Charles Chaplin",
+        "_Movie__genre": "Komödie, Drama, Kriegsfilm"
+    },
+    {
+        "_Movie__title": "Aliens",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMTIzZGZkYWMtODExYi00ZDY0LTgyNDAtOTJhZmJlMjRiZWNiXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.4,
+        "_Movie__duration": "2 hours 17 minutes",
+        "_Movie__description": "Der Mond aus Alien (1979) wurde kolonisiert, aber man hat den Kontakt verloren. Dieses Mal verfügt das Rettungsteam über eine beeindruckende Feuerkraft, aber wird sie genügen?",
+        "_Movie__director": "James Cameron",
+        "_Movie__genre": "Action, Abenteuer, Science-Fiction"
+    },
+    {
+        "_Movie__title": "Inglourious Basterds",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMjE3NDU2MTE3OV5BMl5BanBnXkFtZTgwNDM2OTM5NDE@._V1_.jpg",
+        "_Movie__score": 8.4,
+        "_Movie__duration": "2 hours 33 minutes",
+        "_Movie__description": "Während des Zweiten Weltkriegs plant eine Gruppe jüdischer US-Soldaten im von Nazis besetzten Frankreich führende Nazis zu ermorden, während ein rachsüchtiger Kinobesitzer dasselbe vorhat.",
+        "_Movie__director": "Quentin Tarantino",
+        "_Movie__genre": "Abenteuer, Drama, Kriegsfilm"
+    },
+    {
+        "_Movie__title": "The Dark Knight Rises",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMDIyZWZkMjAtYjVkMC00YzIzLWFhMjMtNGEwZTkyNmQwMTZmXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.4,
+        "_Movie__duration": "2 hours 44 minutes",
+        "_Movie__description": "Acht Jahre nach Jokers anarchischer Herrschaft sieht sich der Dunkle Ritter gezwungen, aus dem ihm auferlegten Exil zurückzukehren und mithilfe der geheimnisvollen Catwoman Gotham City zu retten, das kurz vor seiner totalen Zerstö...",
+        "_Movie__director": "Christopher Nolan",
+        "_Movie__genre": "Action, Drama, Thriller"
+    },
+    {
+        "_Movie__title": "Coco",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNTk5MmM1OTAtYzZlMi00MDlhLWE4ZjctMjBjY2Q1OTEyZWUxXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.4,
+        "_Movie__duration": "1 hours 45 minutes",
+        "_Movie__description": "Coco erzählt von dem 12-jährigen Jungen Miguel, der eine Kette von Ereignissen auslöst, die ihn zu einem jahrhundertealten Geheimnis und zu einer außergewöhnlichen Familienwiedervereinigung führen.",
+        "_Movie__director": "Lee Unkrich, Adrian Molina",
+        "_Movie__genre": "Animation, Abenteuer, Drama"
+    },
+    {
+        "_Movie__title": "Amadeus",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BN2ZmODhiYjEtM2YxOS00Yjc5LTgyMmYtZGEwMWU4NTkxOWE0XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.4,
+        "_Movie__duration": "2 hours 40 minutes",
+        "_Movie__description": "Die unglaubliche Geschichte von Wolfgang Amadeus Mozart, erzählt von seinem Kollegen und geheimen Erzrivalen Antonio Salieri - den man nun in eine Irrenanstalt gesperrt hat.",
+        "_Movie__director": "Milos Forman",
+        "_Movie__genre": "Biografie, Drama, Musikfilm"
+    },
+    {
+        "_Movie__title": "Toy Story",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "1 hours 21 minutes",
+        "_Movie__description": "Eine Cowboy-Puppe fühlt sich bedroht und ist eifersüchtig, als ihr eine neue Raumfahrer-Figur ihren Platz als Lieblingsspielzeug im Kinderzimmer eines Jungen streitig macht.",
+        "_Movie__director": "John Lasseter",
+        "_Movie__genre": "Animation, Abenteuer, Komödie"
+    },
+    {
+        "_Movie__title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZTI0NWI2YTctOTAyOC00M2IyLThkMzctMjNmNzFiN2M4OTc5XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "1 hours 35 minutes",
+        "_Movie__description": "Ein verrückter General begibt sich auf den Weg zum nuklearen Holocaust, was eine Gruppe Politiker und Generäle verzweifelt zu stoppen versucht.",
+        "_Movie__director": "Stanley Kubrick",
+        "_Movie__genre": "Komödie, Kriegsfilm"
+    },
+    {
+        "_Movie__title": "Oldeuboi",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BY2JhMzZmODUtYTIzNy00MTAwLWJmOWYtNzk3MmFmZTllMjgxXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "2 hours",
+        "_Movie__description": "Nachdem er entführt und 15 Jahre lang eingesperrt worden war, wird Oh Dae-su plötzlich entlassen, jedoch nur um zu erfahren, dass er in 5 Tagen seinen Kidnapper finden muss.",
+        "_Movie__director": "Park Chan-wook",
+        "_Movie__genre": "Action, Drama, Mystery"
+    },
+    {
+        "_Movie__title": "American Beauty",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "2 hours 2 minutes",
+        "_Movie__description": "Ein sexuell frustrierter Vorstadtpapa stürzt in eine Midlife Crisis, als er sich in die beste Freundin seiner Tochter verknallt.",
+        "_Movie__director": "Sam Mendes",
+        "_Movie__genre": "Drama"
+    },
+    {
+        "_Movie__title": "Avengers: Endgame",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNzkwOTRjZDItOGNhOS00YjRkLTg3NmEtYWE2MWY5NDcyZDAwXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.4,
+        "_Movie__duration": "3 hours 1 minutes",
+        "_Movie__description": "Nach der Katastrophe von &quot;Avengers: Infinity War&quot; liegt das Universum in Trümmern. Mit Hilfe der restlichen Verbündeten sammeln die Avengers ihre Kräfte, um den Irrsinn Thanos&apos; rückgängig zu machen und das Gleichgewicht wiederherz...",
+        "_Movie__director": "Anthony Russo, Joe Russo",
+        "_Movie__genre": "Action, Abenteuer, Drama"
+    },
+    {
+        "_Movie__title": "Das Boot",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNGY1Y2M0OTktYzk4MS00NTRkLTg1ZjgtMjE1YTY0ZWJhZDA0XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.4,
+        "_Movie__duration": "2 hours 29 minutes",
+        "_Movie__description": "Die klaustrophobische Welt eines deutschen U-Boots im Zweiten Weltkrieg; Langeweile, Schmutz und nackte Angst.",
+        "_Movie__director": "Wolfgang Petersen",
+        "_Movie__genre": "Drama, Kriegsfilm"
+    },
+    {
+        "_Movie__title": "Braveheart",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BN2JhNjI1MGYtMTAwNS00NWJlLThhYWUtOTllM2IzOGVlZGE5XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "2 hours 58 minutes",
+        "_Movie__description": "Als seine geheime Braut für den Angriff auf einen englischen Soldaten, der sie zu vergewaltigen versuchte, hingerichtet wird, beginnt William Wallace eine Revolte gegen König Edward I. von England.",
+        "_Movie__director": "Mel Gibson",
+        "_Movie__genre": "Biografie, Drama, Kriegsfilm"
+    },
+    {
+        "_Movie__title": "Good Will Hunting",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNThkMjYwNmMtNzQ0My00YWE1LTg2ZGItMmIwYTNlNGI5Mzk2XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "2 hours 6 minutes",
+        "_Movie__description": "Will Hunting, ein Hausmeister am Massachusetts Institute of Technology, besitzt eine Begabung für Mathematik, benötigt aber die Hilfe eines Psychologen, um seinem Leben eine Richtung zu geben.",
+        "_Movie__director": "Gus Van Sant",
+        "_Movie__genre": "Drama, Liebesfilm"
+    },
+    {
+        "_Movie__title": "Mononoke-hime",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNTgwOTc2MTItZDU4Yi00NzIwLTgwNmMtYjQxNjE5MTFjMzZhXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "2 hours 13 minutes",
+        "_Movie__description": "Auf der Suche nach einer Möglichkeit, sich von Tatarigamis Fluch zu befreien, findet sich Ashitaka in einen Krieg zwischen Waldgöttern und der Bergbausiedlung Tatara involviert. Auf dieser Reise trifft er auch auf San, die Prinzes...",
+        "_Movie__director": "Hayao Miyazaki",
+        "_Movie__genre": "Animation, Action, Abenteuer"
+    },
+    {
+        "_Movie__title": "Joker",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNWNhYzhjMzAtNmZlNi00ZTA2LWFiYWMtNmYwYmQ0ZGYxZGEwXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.4,
+        "_Movie__duration": "2 hours 2 minutes",
+        "_Movie__description": "1981 in Gotham: Arthur Fleck fristet ein trostloses Leben. Sein Leben nimmt eine dramatische Wendung, als er von seinem Kollegen Randall einen Revolver geschenkt bekommt.",
+        "_Movie__director": "Todd Phillips",
+        "_Movie__genre": "Krimi, Drama, Thriller"
+    },
+    {
+        "_Movie__title": "Kimi no na wa.",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BOTkzMGIyYzAtMDQyYi00OTkxLWI2ZGMtODNmYjMyMWM3ZGY1XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.4,
+        "_Movie__duration": "1 hours 46 minutes",
+        "_Movie__description": "Zwei Fremde finden sich auf bizarre Weise verbunden. Wenn eine Verbindung entsteht, ist Entfernung die einzige Möglichkeit, sie auseinander zu halten?",
+        "_Movie__director": "Makoto Shinkai",
+        "_Movie__genre": "Animation, Drama, Fantasy"
+    },
+    {
+        "_Movie__title": "Tengoku to jigoku",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BOTFmOTNjYjUtMDA2MC00ZTJiLThiYzktNDdjNzQwMjNkN2NmXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.4,
+        "_Movie__duration": "2 hours 23 minutes",
+        "_Movie__description": "Ein Manager einer Schuhfirma wird Opfer von Erpressung, als der Sohn seines Chauffeurs entführt wird.",
+        "_Movie__director": "Akira Kurosawa",
+        "_Movie__genre": "Krimi, Drama, Mystery"
+    },
+    {
+        "_Movie__title": "3 Idiots",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMWQ5MTM5YjQtNDJkNy00N2RlLWE4Y2QtMWNmYTA5ZGIyOWJlXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.4,
+        "_Movie__duration": "2 hours 50 minutes",
+        "_Movie__description": "Zwei Freunde sind auf der Suche nach ihrem lange verschollenen Freund. Sie lassen Erinnerungen an ihre gemeinsamen Tage am College wiederaufleben und erinnern sich an ihren Freund, der sie immer dazu inspirierte, ein wenig anders ...",
+        "_Movie__director": "Rajkumar Hirani",
+        "_Movie__genre": "Komödie, Drama"
+    },
+    {
+        "_Movie__title": "Once Upon a Time in America",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BOTM0YWMxOWItOTRjMi00NDA1LWE1MzctMWQ3MmUyNmNmMWQwXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "3 hours 49 minutes",
+        "_Movie__description": "Ein jüdischer Gangster aus der Zeit der Prohibition kehrt nach über dreißig Jahren in die Lower East Side von Manhattan zurück, wo er sich erneut mit den alten Geistern und Kümmernissen seines früheren Lebens konfrontiert sieht.",
+        "_Movie__director": "Sergio Leone",
+        "_Movie__genre": "Krimi, Drama"
+    },
+    {
+        "_Movie__title": "Singin' in the Rain",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNDJmYjc4MDEtYzliYi00YWEwLThlYmYtN2Y3MGYyNjkwZjMwXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "1 hours 43 minutes",
+        "_Movie__description": "Eine Stummfilmproduktionsfirma und deren Schauspieler versuchen, den schwierigen Übergang in die Tonfilmära zu schaffen.",
+        "_Movie__director": "Stanley Donen, Gene Kelly",
+        "_Movie__genre": "Komödie, Musical, Liebesfilm"
+    },
+    {
+        "_Movie__title": "Capharnaüm",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZjdiZDQyMDEtMjAyOS00ZmEyLWExZjctYjg1MTQzMTQ1NTAyXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.4,
+        "_Movie__duration": "2 hours 6 minutes",
+        "_Movie__description": "Der ungefähr 12 Jahre alte Zain lebt im Armutsviertel von Beirut und schlägt sich mit seiner Familie durch. Nach einem Zwischenfall verlässt er seine Familie und findet Zuflucht bei einer äthiopischen Mutter und ihrem Sohn.",
+        "_Movie__director": "Nadine Labaki",
+        "_Movie__genre": "Drama"
+    },
+    {
+        "_Movie__title": "Idi i smotri",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMjIyMjM4NTQ2OF5BMl5BanBnXkFtZTgwOTM4MTI2MTE@._V1_.jpg",
+        "_Movie__score": 8.4,
+        "_Movie__duration": "2 hours 22 minutes",
+        "_Movie__description": "Nachdem er ein altes Gewehr gefunden hat, schließt sich ein Junge der sowjetischen Widerstandsbewegung in ihrem Kampf gegen die skrupellosen deutschen Truppen an und erfährt so die Schrecken des Zweiten Weltkriegs.",
+        "_Movie__director": "Elem Klimov",
+        "_Movie__genre": "Drama, Thriller, Kriegsfilm"
+    },
+    {
+        "_Movie__title": "Requiem for a Dream",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BN2ZlMjIzZjctYzA2My00ZWYyLWI4ZjctMGI2NWYyNzFiZjAwXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "1 hours 42 minutes",
+        "_Movie__description": "Die Scheinwelten, in die sich vier Menschen aus Coney Island mit Hilfe von Drogen geflüchtet haben, geraten ins Wanken, als ihre Sucht stärker wird.",
+        "_Movie__director": "Darren Aronofsky",
+        "_Movie__genre": "Drama"
+    },
+    {
+        "_Movie__title": "Toy Story 3",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMTVkYmU2MWItYzNjYS00NWQ0LTg5ZDEtNjgyMWNhMGNkZjliXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "1 hours 43 minutes",
+        "_Movie__description": "Kurz bevor Andy sich auf den Weg zum College macht, werden die Spielzeuge irrtümlicherweise an eine Kindertagesstätte und nicht an seinen Speicher geliefert. Es liegt jetzt ganz an Woody, die anderen Spielzeuge davon zu überzeugen...",
+        "_Movie__director": "Lee Unkrich",
+        "_Movie__genre": "Animation, Abenteuer, Komödie"
+    },
+    {
+        "_Movie__title": "Star Wars: Episode VI - Return of the Jedi",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNTczMmNlMWYtNzc5MC00NTRhLTgzNjEtOTVjOWE5ZDc2YjhiXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "2 hours 11 minutes",
+        "_Movie__description": "Nachdem Han Solo aus dem Palast von Jabba dem Hutten gerettet wurde, versuchen die Rebellen, den zweiten Todesstern zu zerstören, während Luke darum kämpft, dass Vader von der dunklen Seite der Macht zurückkehrt.",
+        "_Movie__director": "Richard Marquand",
+        "_Movie__genre": "Action, Abenteuer, Fantasy"
+    },
+    {
+        "_Movie__title": "Eternal Sunshine of the Spotless Mind",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYTAyZTE4OWItMWI2ZS00MGJmLTkyNmMtYjQxNmZmNjdlOTBkXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "1 hours 48 minutes",
+        "_Movie__description": "Als ihre Beziehung langsam in die Brüche geht, findet ein Paar einen Weg, wie es sich gegenseitig aus der Erinnerung des anderen Partners löschen kann. Doch erst mit fortschreitendem Verlust finden sie heraus, was sie anfangs anei...",
+        "_Movie__director": "Michel Gondry",
+        "_Movie__genre": "Drama, Liebesfilm, Science-Fiction"
+    },
+    {
+        "_Movie__title": "Jagten",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYWFhMjBmN2QtOTVjYy00YzQzLWEwYTctYmJiODhiYmVhMmE5XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "1 hours 55 minutes",
+        "_Movie__description": "Ein Lehrer führt ein einsames Leben, während er die ganze Zeit um das Sorgerecht für seinen Sohn kämpft. Sein Leben verbessert sich langsam, als er sich verliebt und auch noch gute Nachrichten von seinem Sohn erhält. Doch das neue...",
+        "_Movie__director": "Thomas Vinterberg",
+        "_Movie__genre": "Drama"
+    },
+    {
+        "_Movie__title": "2001: A Space Odyssey",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BOTE4MTUzNzMtOTBlZC00YTQ2LWFiNTEtY2Q0MTNlNzdhMzgzXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "2 hours 29 minutes",
+        "_Movie__description": "Die Menschheit findet ein mysteriöses unbekanntes Objekt unter der Mondoberfläche und begibt mithilfe des intelligenten Computers H.A.L. 9000 auf eine Reise.",
+        "_Movie__director": "Stanley Kubrick",
+        "_Movie__genre": "Abenteuer, Science-Fiction"
+    },
+    {
+        "_Movie__title": "Ikiru",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMmVhYWQwNDUtOWFkNS00YWMzLWI4MGItYmNkZjJkMmMxYjcyXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "2 hours 23 minutes",
+        "_Movie__description": "Ein Bürokrat versucht in seinem Leben einen Sinn zu finden, nachdem er erfahren hat, Krebs im Endstadium zu haben.",
+        "_Movie__director": "Akira Kurosawa",
+        "_Movie__genre": "Drama"
+    },
+    {
+        "_Movie__title": "Reservoir Dogs",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNjBjMDc5M2QtOGNiNC00YTU3LWJmZjktZDIwMzlhYjFhMWI0XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "1 hours 39 minutes",
+        "_Movie__description": "Nachdem ein einfacher Juwelendiebstahl gründlich schiefgelaufen ist, hegen die überlebenden Verbrecher den Verdacht, dass einer unter ihren ein Polizeispitzel ist.",
+        "_Movie__director": "Quentin Tarantino",
+        "_Movie__genre": "Krimi, Thriller"
+    },
+    {
+        "_Movie__title": "Lawrence of Arabia",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYzkyYTM0NzAtYWIxOS00ZGQ5LWIyNTEtYzEzNWM3Yzk1YWNmXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "3 hours 38 minutes",
+        "_Movie__description": "Die Geschichte von T. E. Lawrence, dem englischen Offizier, der erfolgreich die verschiedenen, oftmals verfeindeten arabischen Stämme im Ersten Weltkrieg vereinte, um sie in den Kampf gegen die Türken zu führen.",
+        "_Movie__director": "David Lean",
+        "_Movie__genre": "Abenteuer, Biografie, Drama"
+    },
+    {
+        "_Movie__title": "The Apartment",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYTc5ZGMzYWQtZWNmZS00NWEwLWExZDktNDFmOGY4NTM2MDRhXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "2 hours 5 minutes",
+        "_Movie__description": "Ein Mann versucht, die Karriereleiter emporzusteigen, indem er seinen Vorgesetzten sein Apartment als Liebesnest zur Verfügung stellt, doch als er selbst eine Liebesaffäre hat, beginnt die Situation kompliziert zu werden.",
+        "_Movie__director": "Billy Wilder",
+        "_Movie__genre": "Komödie, Drama, Liebesfilm"
+    },
+    {
+        "_Movie__title": "Incendies",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYzhkM2I0MzMtNmMwNy00MjkzLTgzMDktOGQzYWZjYmJjMjFlXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "2 hours 11 minutes",
+        "_Movie__description": "Zwei Zwillinge reisen in den Mittleren Osten, um mehr über ihre Familiengeschichte zu erfahren und den letzten Willen ihrer Mutter zu erfüllen.",
+        "_Movie__director": "Denis Villeneuve",
+        "_Movie__genre": "Drama, Mystery, Kriegsfilm"
+    },
+    {
+        "_Movie__title": "North by Northwest",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYWVhYWRlMDQtYzE0ZC00MTFhLWI5OTYtYzgzY2VlNGUzZTRlXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "2 hours 16 minutes",
+        "_Movie__description": "Ein New Yorker Werbefachmann ist auf der Flucht, nachdem er von einer Gruppe ausländischer Spione für einen Regierungsagenten gehalten wurde, und verliebt sich in eine Frau, an deren Loyalität er zu zweifeln beginnt.",
+        "_Movie__director": "Alfred Hitchcock",
+        "_Movie__genre": "Action, Abenteuer, Mystery"
+    },
+    {
+        "_Movie__title": "Scarface",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BM2NjZTVjYTEtODg2OC00MDY4LWExNTAtOTQyM2Y3ZDE3OTVmXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "2 hours 50 minutes",
+        "_Movie__description": "1980 in Miami. Ein zielstrebiger kubanischer Einwanderer übernimmt ein Drogenkartell und verfällt der Habsucht.",
+        "_Movie__director": "Brian De Palma",
+        "_Movie__genre": "Krimi, Drama"
+    },
+    {
+        "_Movie__title": "Oppenheimer",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMzhlY2IyYTAtMTllMC00NzM3LWFhY2ItNjdhM2NhZmJiYWQ1XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "3 hours",
+        "_Movie__description": "‎Die Geschichte des amerikanischen Wissenschaftlers J. Robert Oppenheimer und seine Rolle bei der Entwicklung der Atombombe.‎",
+        "_Movie__director": "Christopher Nolan",
+        "_Movie__genre": "Biografie, Drama, Geschichte"
+    },
+    {
+        "_Movie__title": "Double Indemnity",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMDEwNDM5MjQtMWI0ZC00ZjdkLWEwOGQtNzJkNjIyMTM4YmQyXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "1 hours 47 minutes",
+        "_Movie__description": "Ein Versicherungsvertreter lässt sich zur Planung eines Mordes und Versicherungsbetrugs überreden, der schließlich den Verdacht eines Versicherungsdetektivs erregt.",
+        "_Movie__director": "Billy Wilder",
+        "_Movie__genre": "Krimi, Drama, Film Noir"
+    },
+    {
+        "_Movie__title": "Citizen Kane",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYjlhNmFlMGMtNmVjMC00MDg4LTg3ZTMtODc5ODg5Yzk1Y2UxXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "1 hours 59 minutes",
+        "_Movie__description": "Nach dem Tod eines Zeitungs- und Verlagsmagnaten reißen sich Reporter darum, die Bedeutung der letzten Worte des Verstorbenen zu entschlüsseln.",
+        "_Movie__director": "Orson Welles",
+        "_Movie__genre": "Drama, Mystery"
+    },
+    {
+        "_Movie__title": "M - Eine Stadt sucht einen Mörder",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMTU1ODE2ODg3Ml5BMl5BanBnXkFtZTgwNjk1MTA5MTE@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "1 hours 57 minutes",
+        "_Movie__description": "Als die Polizei in einer deutschen Stadt nicht in der Lage ist, einen Kindermörder zu fangen, beteiligen sich andere Verbrecher an der Menschenjagd.",
+        "_Movie__director": "Fritz Lang",
+        "_Movie__genre": "Krimi, Mystery, Thriller"
+    },
+    {
+        "_Movie__title": "Vertigo",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZTBmOWRiNjYtOTM3MC00MWYyLTk5YmMtNDY0YmZjZTU2MDlhXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "2 hours 8 minutes",
+        "_Movie__description": "Ein Kriminalinspektor in San Francisco, der an Höhenangst leidet, untersucht die seltsamen Aktivitäten der Frau eines alten Freundes und wird immer besessener von ihr.",
+        "_Movie__director": "Alfred Hitchcock",
+        "_Movie__genre": "Mystery, Liebesfilm, Thriller"
+    },
+    {
+        "_Movie__title": "Full Metal Jacket",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BOTI1OGFmZTAtNWQ2NS00NGIxLWE3MTktODRmZTFkODgzZDBhXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "1 hours 56 minutes",
+        "_Movie__description": "Ein pragmatischer US-Marine beobachtet, welche entmenschlichenden Auswirkungen der Vietnamkrieg auf seine Gefährten im Ausbildungslager hat, vom brutalen Training dort bis hin zu den blutigen Straßenkämpfen in Hue.",
+        "_Movie__director": "Stanley Kubrick",
+        "_Movie__genre": "Drama, Kriegsfilm"
+    },
+    {
+        "_Movie__title": "Heat",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNDMwZTZlY2QtM2I0MS00Y2MwLTk1ZGYtYzY1ZmE3ZmY2YWYwXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "2 hours 50 minutes",
+        "_Movie__description": "Eine Gruppe professioneller Bankräuber hat die Polizei an den Fersen, als sie bei ihrem letzten Raubzug versehentlich eine heiße Spur hinterlassen.",
+        "_Movie__director": "Michael Mann",
+        "_Movie__genre": "Action, Krimi, Drama"
+    },
+    {
+        "_Movie__title": "Le fabuleux destin d'Amélie Poulain",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BOTNmYzY0MWQtZGZmNy00Y2Y4LWFmMDQtMTZjYTdiYzEwZGQ2XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "2 hours 2 minutes",
+        "_Movie__description": "Amélie ist eine naive Träumerin in Paris mit einem ganz eigenen Gerechtigkeitssinn. Sie entscheidet, anderen Leuten zu helfen, und entdeckt dabei die Liebe.",
+        "_Movie__director": "Jean-Pierre Jeunet",
+        "_Movie__genre": "Komödie, Liebesfilm"
+    },
+    {
+        "_Movie__title": "Up",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYTg3NjgyMGEtNDRkMS00YjA3LThiYzktNjhlOGE1ZjRiNjhjXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "1 hours 36 minutes",
+        "_Movie__description": "Der siebenundachtzig Jahre alte Carl Fredricksen reist mit seinem an Luftballons hängenden Haus zu den Paradiesfällen, in Begleitung eines von ihm unbemerkten, jungen blinden Passagiers.",
+        "_Movie__director": "Pete Docter, Bob Peterson",
+        "_Movie__genre": "Animation, Abenteuer, Komödie"
+    },
+    {
+        "_Movie__title": "A Clockwork Orange",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMTc2ODczMzkzM15BMl5BanBnXkFtZTgwNTQ2NzAxMDE@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "2 hours 16 minutes",
+        "_Movie__description": "Im Großbritannien der Zukunft sitzt der charismatische Delinquent Alex DeLarge im Gefängnis. Er meldet sich freiwillig für eine experimentelle Aversionstherapie, die von der Regierung zur Lösung des Kriminalitätsproblems entwickel...",
+        "_Movie__director": "Stanley Kubrick",
+        "_Movie__genre": "Krimi, Science-Fiction"
+    },
+    {
+        "_Movie__title": "To Kill a Mockingbird",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNWU1YTI2NGEtMGY3Mi00NjlhLTgwNWMtNWQzNWU1ZjQyZTRiXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "2 hours 9 minutes",
+        "_Movie__description": "Atticus Finch, ein Rechtsanwalt in den von der Depression gebeutelten Südstaaten der USA, verteidigt einen Schwarzen gegen eine nicht berechtigte Anklage wegen Vergewaltigung und versucht, seine (eigenen) Kinder vor Vorurteilen zu...",
+        "_Movie__director": "Robert Mulligan",
+        "_Movie__genre": "Krimi, Drama"
+    },
+    {
+        "_Movie__title": "Jodaeiye Nader az Simin",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMjYyZTdkOGYtZmEzMi00NjU2LWFiZDctYmYxMDU4MjQ0ZjFlXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "2 hours 3 minutes",
+        "_Movie__description": "Ein verheiratetes Paar hat eine schwere Entscheidung zu treffen: Entweder das Leben ihres Kindes zu verbessern und dafür in ein anderes Land zu ziehen oder im Iran zu bleiben und für einen hilfsbedürftigen Elternteil sorgen, der a...",
+        "_Movie__director": "Asghar Farhadi",
+        "_Movie__genre": "Drama"
+    },
+    {
+        "_Movie__title": "The Sting",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZTBlMGU0NjQtYmQwYi00ODI4LWEzNjQtMzRjZTlmYzM1Yjc0XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "2 hours 9 minutes",
+        "_Movie__description": "In Chicago möchte ein junger Hochstapler sich im September 1936 für den Mord an seinem Partner rächen und tut sich mit dem größten aller Trickbetrüger zusammen, um einem kriminellen Banker ein Vermögen abzuluchsen.",
+        "_Movie__director": "George Roy Hill",
+        "_Movie__genre": "Komödie, Krimi, Drama"
+    },
+    {
+        "_Movie__title": "Die Hard",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZjFiZTYzNTQtNDBlZS00ZDhjLTk4OGMtNDk4OTkzNTU5M2Y2XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "2 hours 12 minutes",
+        "_Movie__description": "John McClane, Polizeibeamter bei der New Yorker Polizei, versucht das Leben seiner Frau Holly Gennaro und einiger weiterer Personen zu retten, die während einer Weihnachtsfeier im Nakatomi Plaza-Gebäude in Los Angeles vom deutsche...",
+        "_Movie__director": "John McTiernan",
+        "_Movie__genre": "Action, Thriller"
+    },
+    {
+        "_Movie__title": "Indiana Jones and the Last Crusade",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BY2Q0ODg4ZmItNDZiYi00ZWY5LTg2NzctNmYwZjA5OThmNzE1XkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "2 hours 7 minutes",
+        "_Movie__description": "Als Dr. Henry Jones Senior bei der Suche nach dem Heiligen Gral plötzlich von der Bildfläche verschwindet, muss der angesehene Archäologe Indiana Jones in die Fußstapfen seines Vaters treten und die Nazis stoppen.",
+        "_Movie__director": "Steven Spielberg",
+        "_Movie__genre": "Action, Abenteuer"
+    },
+    {
+        "_Movie__title": "Taare Zameen Par",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNjVmMTlkNGYtYTM2OC00Yjc2LWIyYmQtMDY4ZmU1MWRlMjA3XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "2 hours 42 minutes",
+        "_Movie__description": "Ein achtjähriger Junge gilt als fauler Ärgermacher, bis der neue Kunstlehrer die Geduld und das Mitgefühl hat, das eigentliche Problem hinter seinen Schulkämpfen zu entdecken.",
+        "_Movie__director": "Aamir Khan, Amole Gupte",
+        "_Movie__genre": "Drama, Familienfilm"
+    },
+    {
+        "_Movie__title": "Metropolis",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMjhjMGYyMjAtMzJkYy00NzhlLWIwY2MtMWQ2ODIxZDUyOGYyXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "2 hours 33 minutes",
+        "_Movie__description": "In einer futuristischen Großstadt, in der die Arbeiterklasse streng von der Oberschicht getrennt ist, verliebt sich der Sohn des Herrschers der Stadt in eine Prophetin der Unterschicht, die das Kommen eines Retters vorhersagt, der...",
+        "_Movie__director": "Fritz Lang",
+        "_Movie__genre": "Drama, Science-Fiction"
+    },
+    {
+        "_Movie__title": "Snatch",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMTNiMzgzNjItNmZhYy00ZTI0LThjZDEtMWU5ZWY5OTIxMzk0XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "1 hours 44 minutes",
+        "_Movie__description": "Skrupellose Boxkampfveranstalter, gewalttätige Buchmacher, ein russischer Gangster, unfähige Amateurdiebe und angeblich jüdische Juwelenhändler bekämpfen sich gegenseitig, um einen unbezahlbaren gestohlenen Diamanten aufzuspüren.",
+        "_Movie__director": "Guy Ritchie",
+        "_Movie__genre": "Komödie, Krimi"
+    },
+    {
+        "_Movie__title": "1917",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMTEzYjdkMGYtMDNjOS00YTBlLWE5NGUtMTM5OTlkNTI1NDJlXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "1 hours 59 minutes",
+        "_Movie__description": "Der Film wird in 1917 während des Ersten Weltkriegs gedreht.",
+        "_Movie__director": "Sam Mendes",
+        "_Movie__genre": "Action, Drama, Geschichte"
+    },
+    {
+        "_Movie__title": "L.A. Confidential",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BOWU0NmVmYWQtNjIxYi00ZDAxLTk4OTEtM2E2MjgwMjUwOTQ0XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "2 hours 18 minutes",
+        "_Movie__description": "Während die Korruption im Los Angeles der Fünfziger Jahre ihre Blüten treibt, untersuchen drei Polizisten - ein Sittenwächter, ein Brutalo und ein Intrigant - eine Reihe von Mordfällen, wobei sie ihre eigene Art von Rechtsauffassu...",
+        "_Movie__director": "Curtis Hanson",
+        "_Movie__genre": "Krimi, Drama, Mystery"
+    },
+    {
+        "_Movie__title": "Ladri di biciclette",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZTQzYTIxYzItYmQ5YS00MmFhLWEyMjItNTBhMTRmM2Y5MDJhXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "1 hours 29 minutes",
+        "_Movie__description": "Im Italien der Nachkriegszeit wird einem Tagelöhner sein Fahrrad gestohlen. Zusammen mit seinem Sohn zieht er los, um es wiederzufinden.",
+        "_Movie__director": "Vittorio De Sica",
+        "_Movie__genre": "Drama"
+    },
+    {
+        "_Movie__title": "Hamilton",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYzBhOWY4ZTktMjE2NS00ZGIyLWJkOGMtNDQyN2JjZWFiODdiXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "2 hours 40 minutes",
+        "_Movie__description": "Verfilmung des Broadway-Musicals &quot;Hamilton&quot; von Lin-Manuel Miranda. Darin wird die Geschichte des amerikanischen Gründervaters Alexander Hamilton erzählt: Geboren und aufgewachsen als Waise in der Karibik.",
+        "_Movie__director": "Thomas Kail",
+        "_Movie__genre": "Biografie, Drama, Geschichte"
+    },
+    {
+        "_Movie__title": "Der Untergang",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNTA1ZTA4NzctNDhhYS00MDllLTkzNjAtMWJmMjZiYTZhMTdhXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "2 hours 36 minutes",
+        "_Movie__description": "Traudl Junge, die letzte Sekretärin Adolf Hitlers, erzählt von den letzten Tagen des Diktators in seinem Berliner Bunker am Ende des Zweiten Weltkriegs.",
+        "_Movie__director": "Oliver Hirschbiegel",
+        "_Movie__genre": "Biografie, Drama, Geschichte"
+    },
+    {
+        "_Movie__title": "Taxi Driver",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNjFkOWQ0MTgtN2IwMi00MWQ1LTliOTQtZGFhYjY3ZjUxOWI5XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "1 hours 54 minutes",
+        "_Movie__description": "Ein psychisch labiler Vietnamveteran arbeitet nachts als Taxifahrer in New York. Die wahrgenommene Dekadenz und Anstößigkeit fördern seinen Drang zur Gewalttätigkeit, während er versucht, eine vorpubertäre Prostituierte zu retten.",
+        "_Movie__director": "Martin Scorsese",
+        "_Movie__genre": "Krimi, Drama"
+    },
+    {
+        "_Movie__title": "Dangal",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "2 hours 41 minutes",
+        "_Movie__description": "Der ehemalige Wrestler Mahavir Singh Phogat und seine beiden Wrestler-Töchter kämpfen bei den Commonwealth Games gegen gesellschaftliche Unterdrückung.",
+        "_Movie__director": "Nitesh Tiwari",
+        "_Movie__genre": "Action, Biografie, Drama"
+    },
+    {
+        "_Movie__title": "Batman Begins",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNTViMDA3ZGItNDRlYS00NWZkLWI1OGQtYTQ1ZDM2NWI5YzE1XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "2 hours 20 minutes",
+        "_Movie__description": "Nach abgeschlossenem Training mit seinem Mentor beginnt Batman mit seinem Kampf, das vom Verbrechen geplagte Gotham City vom Netz der Korruption zu befreien, mit dem Scarecrow und die Gesellschaft der Schatten die Stadt überzogen ...",
+        "_Movie__director": "Christopher Nolan",
+        "_Movie__genre": "Action, Krimi, Drama"
+    },
+    {
+        "_Movie__title": "Per qualche dollaro in più",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZjAwZjY2MGYtOTVhYi00MzIxLThhZmYtZmRjZjBlNjM5YjA3XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "2 hours 12 minutes",
+        "_Movie__description": "Zwei Kopfgeldjäger mit den gleichen beruflichen Absichten tun sich zusammen, um einen Gesetzlosen aufzuspüren.",
+        "_Movie__director": "Sergio Leone",
+        "_Movie__genre": "Drama, Western"
+    },
+    {
+        "_Movie__title": "The Wolf of Wall Street",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BN2ViNDA3ZWUtMjVlYy00NjAyLWIwMjAtODk4NGI4MWQwZTQ2XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "3 hours",
+        "_Movie__description": "Beruhend auf der wahren Geschichte von Jordan Belfort, von seinem Aufstieg als reicher Börsenmakler, der sein Leben in Saus und Braus genießt, bis zu seinem Absturz in die Kriminalität, Korruption und die Verfolgung durch die US-B...",
+        "_Movie__director": "Martin Scorsese",
+        "_Movie__genre": "Biografie, Komödie, Krimi"
+    },
+    {
+        "_Movie__title": "Green Book",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BOGZlZWU0NzctYWNiMy00MzIyLTgzZWQtNTMxYTY5MDAyZTgzXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "2 hours 10 minutes",
+        "_Movie__description": "Ein italo-amerikanischer Türsteher aus der Arbeiterklasse wird Chauffeur eines afroamerikanischen Pianisten auf einer Tour durch Veranstaltungsorte im amerikanischen Süden der 1960er-Jahre.",
+        "_Movie__director": "Peter Farrelly",
+        "_Movie__genre": "Biografie, Komödie, Drama"
+    },
+    {
+        "_Movie__title": "Some Like It Hot",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BOTIwZjc2ZTEtNzkzYS00MDdkLThlYWItYWQyYWZjYjM0MjA1XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "2 hours 1 minutes",
+        "_Movie__description": "Als zwei männliche Musiker Zeugen eines Mafiamassakers werden, fliehen sie in einen anderen Staat, indem sie als Frauen verkleidet in einer Frauenband untertauchen. Doch dann treten Komplikationen auf.",
+        "_Movie__director": "Billy Wilder",
+        "_Movie__genre": "Komödie, Musikfilm, Liebesfilm"
+    },
+    {
+        "_Movie__title": "The Kid",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BODI3ZmVmZGEtNWY0NS00MTNiLTllNjEtYzgxNDliYjZlYzNjXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "54 minutes",
+        "_Movie__description": "Der Vagabund sorgt für ein verlassenes Kind, doch die Ereignisse setzen die Beziehung einem Risiko aus.",
+        "_Movie__director": "Charles Chaplin",
+        "_Movie__genre": "Komödie, Drama, Familienfilm"
+    },
+    {
+        "_Movie__title": "The Truman Show",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNjVkMDUwNTItZjBmYS00NDFiLWE0NWQtMjk1MzhjMTEzZGQ5XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "1 hours 43 minutes",
+        "_Movie__description": "Ein Versicherungsangestellter entdeckt, dass sein ganzes Leben eigentlich nur eine Fernsehshow ist.",
+        "_Movie__director": "Peter Weir",
+        "_Movie__genre": "Komödie, Drama"
+    },
+    {
+        "_Movie__title": "Judgment at Nuremberg",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BN2EyOWIyOWItMWUyNy00YmI1LThiNzItYzE4YjRhMWI4OWIwXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.3,
+        "_Movie__duration": "2 hours 59 minutes",
+        "_Movie__description": "Im Jahr 1948 klagt ein amerikanisches Gericht im besetzten Deutschland vier Nazirichter wegen Kriegsverbrechen an.",
+        "_Movie__director": "Stanley Kramer",
+        "_Movie__genre": "Drama, Kriegsfilm"
+    },
+    {
+        "_Movie__title": "The Father",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BOWFiYTRhZTYtNjA5ZC00ZGIzLTg4YWYtYzRhZTExNTNjMzE2XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "1 hours 37 minutes",
+        "_Movie__description": "Ein Mann verweigert seiner Tochter im Alter den Beistand. Während er versucht, seine sich verändernden Umstände zu verstehen, beginnt er, an seinen Lieben und an seinem eigenen Verstand zu zweifeln.",
+        "_Movie__director": "Florian Zeller",
+        "_Movie__genre": "Drama, Mystery"
+    },
+    {
+        "_Movie__title": "All About Eve",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZTUyMzIzNjUtYjA3Ny00ZTQyLWIzM2UtNWE2ZDExZGIwOGJjXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "2 hours 18 minutes",
+        "_Movie__description": "Eine scheinbar naive, junge Verehrerin schleicht sich geschickt in die Gesellschaft einer etablierten, aber alternden Bühnenschauspielerin und ihren Kreis von Theaterfreunden ein.",
+        "_Movie__director": "Joseph L. Mankiewicz",
+        "_Movie__genre": "Drama"
+    },
+    {
+        "_Movie__title": "Shutter Island",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMjI0NDFlYjMtZjM2YS00MTEzLTg2YzUtNDBhNWIzYTgwYzc5XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "2 hours 18 minutes",
+        "_Movie__description": "Im Jahr 1954 untersucht ein US-Marshal das Verschwinden einer Mörderin, die aus einer Anstalt für geisteskranke Straftäter entkommen ist.",
+        "_Movie__director": "Martin Scorsese",
+        "_Movie__genre": "Drama, Mystery, Thriller"
+    },
+    {
+        "_Movie__title": "There Will Be Blood",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BOTdkZWExZjUtMzE3MS00NzdhLTk1NjMtMjkyNGNiMDUzNDFkXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "2 hours 38 minutes",
+        "_Movie__description": "Eine Geschichte über Familie, Religion, Hass, Öl und Wahnsinn, die sich vor allem auf die Figur eines Ölsuchers der Jahrhundertwende konzentriert, einer Zeit, in der diese Branche ihren Anfang nahm.",
+        "_Movie__director": "Paul Thomas Anderson",
+        "_Movie__genre": "Drama"
+    },
+    {
+        "_Movie__title": "Jurassic Park",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BY2RlOWZiZDAtOTU3Yy00OTYxLTkwNTgtMGEyMTk0NDdjODYwXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "2 hours 7 minutes",
+        "_Movie__description": "Während einer Vorbesichtigungs-Tour kommt es in einem Themenpark zu einem größeren Stromausfall, der bewirkt, dass die dort ausgestellten Dinosaurierklone Amok laufen.",
+        "_Movie__director": "Steven Spielberg",
+        "_Movie__genre": "Action, Abenteuer, Science-Fiction"
+    },
+    {
+        "_Movie__title": "Top Gun: Maverick",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMTY2OTdkYTQtYTM4NS00NzNlLWJmYzQtNmI1OGI1MzZhNjEwXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "2 hours 10 minutes",
+        "_Movie__description": "Nach dreißig Dienstjahren als einer der besten Flieger der Navy geht Pete Mitchell als mutiger Testpilot an seine Grenzen und entzieht sich der Beförderung, die ihm das Fliegen unmöglich machen würden.",
+        "_Movie__director": "Joseph Kosinski",
+        "_Movie__genre": "Action, Drama"
+    },
+    {
+        "_Movie__title": "Casino",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "2 hours 58 minutes",
+        "_Movie__description": "Habgier, Betrug, Geld, Macht und Mord sind die Dinge, die die enge Freundschaft zwischen einem Mafia-Vizeboss und einem Kasinobesitzer bestimmen, denn es geht um eine Vorzeigefrau und die Herrschaft über ein Glücksspielimperium.",
+        "_Movie__director": "Martin Scorsese",
+        "_Movie__genre": "Krimi, Drama"
+    },
+    {
+        "_Movie__title": "Ran",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMTk3MzNiNTAtZGY4Zi00NzUxLThlZjktZmYzMGNkOTc2MGYzXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "2 hours 40 minutes",
+        "_Movie__description": "Im mittelalterlichen Japan setzt sich ein alter Kriegsherr zur Ruhe und übergibt sein Reich seinen drei Söhnen. Er hat jedoch vollkommen unterschätzt, wie sehr die neue Macht in ihren Händen sie korrumpieren würde, sodass sie aufe...",
+        "_Movie__director": "Akira Kurosawa",
+        "_Movie__genre": "Action, Drama, Kriegsfilm"
+    },
+    {
+        "_Movie__title": "The Sixth Sense",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BOWFkZDEzODYtYzQxNy00MzdjLTg4ODUtNGNkN2U5MDFkZWE3XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "1 hours 47 minutes",
+        "_Movie__description": "Ein Junge, der mit Geistern kommuniziert, die nicht wissen, dass sie tot sind, sucht Hilfe bei einem mutlosen Kinderpsychologen.",
+        "_Movie__director": "M. Night Shyamalan",
+        "_Movie__genre": "Drama, Mystery, Thriller"
+    },
+    {
+        "_Movie__title": "El laberinto del fauno",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BOTc1NTAxMWItMWFlNy00MmU2LTkwMTMtNzMwOTg5OTQ5YTFiXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "1 hours 58 minutes",
+        "_Movie__description": "Im falangistischen Spanien von 1944 flüchtet sich die lesewütige Stieftochter eines sadistischen Armeeoffiziers in eine unheimliche, aber fesselnde Fantasiewelt.",
+        "_Movie__director": "Guillermo del Toro",
+        "_Movie__genre": "Drama, Fantasy, Kriegsfilm"
+    },
+    {
+        "_Movie__title": "Unforgiven",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNDMwZGE0OTYtNjc5MC00ZjBiLWExYjQtMGNiN2RiYzIzNjVkXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "2 hours 10 minutes",
+        "_Movie__description": "Der Western-Revolverheld William Munny, der sich eigentlich aus seinem Geschäft zurückgezogen hat, übernimmt widerwillig noch einmal einen letzten Auftrag, bei dem ihm sein alter Partner und ein junger Mann helfen.",
+        "_Movie__director": "Clint Eastwood",
+        "_Movie__genre": "Drama, Western"
+    },
+    {
+        "_Movie__title": "No Country for Old Men",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZGRjOWJjZDUtMjQ5Ny00OTJkLTk2MGQtYjdkOTE1YjZmMDA3XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "2 hours 2 minutes",
+        "_Movie__description": "Gewalt und Chaos folgen, nachdem ein Wilddieb in der Nähe des Rio Grande auf die Überbleibsel eines gescheiterten Drogendeals stößt, darunter über zwei Millionen Dollar.",
+        "_Movie__director": "Ethan Coen, Joel Coen",
+        "_Movie__genre": "Krimi, Drama, Thriller"
+    },
+    {
+        "_Movie__title": "The Thing",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZmI0ODI5ZjEtYzFjNi00MTdkLWEzZDYtYTc2ZjJmNTgxMzNhXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "1 hours 49 minutes",
+        "_Movie__description": "Es ist die erste Woche im Winter des Jahres 1982. Eine amerikanische Forschungsstation bekommt Besuch von einer außerirdischen Kraft, die alles assimilieren kann, was sie berührt. Das Überleben der Forscher hängt nun ganz davon ab...",
+        "_Movie__director": "John Carpenter",
+        "_Movie__genre": "Horror, Mystery, Science-Fiction"
+    },
+    {
+        "_Movie__title": "A Beautiful Mind",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BODNhMDFkOWItNzMxYi00N2U5LWIwY2QtNmUyZDEwYjliN2ViXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "2 hours 15 minutes",
+        "_Movie__description": "Nachdem John Nash, ein brillanter aber kontaktscheuer Mathematiker, einen kryptografischen Geheimauftrag übernommen hat, wird sein Leben zum Alptraum.",
+        "_Movie__director": "Ron Howard",
+        "_Movie__genre": "Biografie, Drama, Mystery"
+    },
+    {
+        "_Movie__title": "Kill Bill: Vol. 1",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BN2U4MzU3MTktNTM4My00ODIyLTlhNWYtMmI3NzQ1NDY0NDFjXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "1 hours 51 minutes",
+        "_Movie__description": "Die Braut erwacht aus einem vierjährigen Koma. Das Kind, das sie in ihrem Mutterleib trug, ist verschwunden. Jetzt heißt es Rache nehmen an der Mörderbande, die sie betrogen hat - und der sie einst angehörte.",
+        "_Movie__director": "Quentin Tarantino",
+        "_Movie__genre": "Action, Krimi, Thriller"
+    },
+    {
+        "_Movie__title": "The Treasure of the Sierra Madre",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMjIxOTY4NzQ0NF5BMl5BanBnXkFtZTgwNzk3MzgyMjE@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "2 hours 6 minutes",
+        "_Movie__description": "Fred Dobbs und Bob Curtin, zwei Amerikaner auf der Suche nach Arbeit in Mexiko, überzeugen einen alten Goldsucher davon, ihnen bei der Goldsuche in den Bergen der Sierra Madre zu helfen.",
+        "_Movie__director": "John Huston",
+        "_Movie__genre": "Abenteuer, Drama, Western"
+    },
+    {
+        "_Movie__title": "Yôjinbô",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYzFkODA1N2QtY2UyMC00NTMwLWEyNzctMmE3YjIzNzE1MzY4XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "1 hours 50 minutes",
+        "_Movie__description": "Ein listiger Ronin kommt in eine Stadt, die sich zwei Verbrecherbanden teilen, und beschließt, sie gegeneinander auszuspielen, um so die Stadt zu befreien.",
+        "_Movie__director": "Akira Kurosawa",
+        "_Movie__genre": "Action, Drama, Thriller"
+    },
+    {
+        "_Movie__title": "The Great Escape",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNWQ4OTE3NTctMzMzYy00NTQxLWIzMDktOTE5YmQwNTNhZWVkXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "2 hours 52 minutes",
+        "_Movie__description": "Während des Zweiten Weltkriegs versuchen einige Hundert alliierte Kriegsgefangene aus einem deutschen Lager auszubrechen.",
+        "_Movie__director": "John Sturges",
+        "_Movie__genre": "Abenteuer, Drama, Thriller"
+    },
+    {
+        "_Movie__title": "Monty Python and the Holy Grail",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMmNjM2VjZmMtYmM2Yy00ZDU0LWJjMTQtM2ViNzY3MjhkODM2XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "1 hours 31 minutes",
+        "_Movie__description": "König Arthur und seine Ritter begeben sich auf eine Low-Budget-Suche nach dem Heiligen Gral, und treffen dabei auf viele, ziemlich dumme Hindernisse.",
+        "_Movie__director": "Terry Gilliam, Terry Jones",
+        "_Movie__genre": "Abenteuer, Komödie, Fantasy"
+    },
+    {
+        "_Movie__title": "Finding Nemo",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNGQzNjYzMGYtZjY1OS00Y2ExLTk3YmItYmQ4MzMzMzI3ZWE5XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "1 hours 40 minutes",
+        "_Movie__description": "Nachdem sein Sohn am Great Barrier Reef gefangen genommen und nach Sydney gebracht wurde, unternimmt ein schüchterner Clownfisch eine Reise, um seinen Sprössling nach Hause zu bringen.",
+        "_Movie__director": "Andrew Stanton, Lee Unkrich",
+        "_Movie__genre": "Animation, Abenteuer, Komödie"
+    },
+    {
+        "_Movie__title": "Prisoners",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMjk1ZTFkOWYtMTE0NS00NWY1LTk5NGEtOTIzYTI1YzdmODgyXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "2 hours 33 minutes",
+        "_Movie__description": "Als Keller Dovers Tochter und ihr Freund vermisst werden, nimmt er die Sache selbst in die Hand, da die Polizei mehrere Spuren gleichzeitig verfolgt und der Zeitdruck wächst. Doch wie weit wird ein verzweifelter Vater gehen, um se...",
+        "_Movie__director": "Denis Villeneuve",
+        "_Movie__genre": "Krimi, Drama, Mystery"
+    },
+    {
+        "_Movie__title": "Hauru no ugoku shiro",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BOGU3YWEyOWEtYmM4MC00ZGE1LTljMDEtODM3NDg1ODQyYjU1XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "1 hours 59 minutes",
+        "_Movie__description": "Als eine wenig selbstbewusste junge Frau von einer alten, boshaften Hexe verflucht und in eine Greisin verwandelt wird, sieht sie ihre einzige Hoffnung, den Zauber wieder zu brechen, in einem maßlosen, aber unsicheren jungen Zaube...",
+        "_Movie__director": "Hayao Miyazaki",
+        "_Movie__genre": "Animation, Abenteuer, Familienfilm"
+    },
+    {
+        "_Movie__title": "Rashômon",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNDJmMjdiYmEtM2QyNC00MmUwLThjNWQtZjNkNDJiN2JhODg4XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "1 hours 28 minutes",
+        "_Movie__description": "Ein abscheuliches Verbrechen und seine Folgen werden aus unterschiedlichen Perspektiven erinnert.",
+        "_Movie__director": "Akira Kurosawa",
+        "_Movie__genre": "Krimi, Drama, Mystery"
+    },
+    {
+        "_Movie__title": "The Elephant Man",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BOTk0MzM4OTktZTk4Yy00ZGUzLTk0NWItMWQ0YTBlNmI5Y2E5XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "2 hours 4 minutes",
+        "_Movie__description": "Ein viktorianischer Arzt rettet einen vom Krebs entstellten Mann vor Misshandlungen, hinter dessen monströsem Äußeren sich eine intelligente und empfindsame Person verbirgt.",
+        "_Movie__director": "David Lynch",
+        "_Movie__genre": "Biografie, Drama"
+    },
+    {
+        "_Movie__title": "Dial M for Murder",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BOTM0NDhmMDMtYWExNS00YzgwLTkzZmQtZWRiNzllNjI3ZDU3XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "1 hours 45 minutes",
+        "_Movie__description": "Ein ehemaliger Tennisprofi schmiedet ein Komplott, seine Frau umzubringen. Als es misslingt, improvisiert er schnell einen Plan B.",
+        "_Movie__director": "Alfred Hitchcock",
+        "_Movie__genre": "Krimi, Thriller"
+    },
+    {
+        "_Movie__title": "Chinatown",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMmY2YTUyMDYtMWQzZS00ODNkLTgwNzMtZmIzMTM4ZTgyMDEyXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 10 minutes",
+        "_Movie__description": "Ein Privatdetektiv wird angeheuert, einen Ehebrecher zu entlarven, und bemerkt bald, in einem Netz aus Betrug, Korruption und Mord gefangen zu sein.",
+        "_Movie__director": "Roman Polanski",
+        "_Movie__genre": "Drama, Mystery, Thriller"
+    },
+    {
+        "_Movie__title": "Gone with the Wind",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BOGRjYTllMzYtNjYwNC00MGNjLWJjOTQtZmUzYzNkNDgwMTBmXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "3 hours 58 minutes",
+        "_Movie__description": "Eine manipulative Südstaaten-Schönheit hat während des Amerikanischen Bürgerkriegs eine wilde Affäre mit einem Blockadebrecher.",
+        "_Movie__director": "Victor Fleming, George Cukor, Sam Wood",
+        "_Movie__genre": "Drama, Liebesfilm, Kriegsfilm"
+    },
+    {
+        "_Movie__title": "Lock, Stock and Two Smoking Barrels",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BOThlMGVlODEtYzA2Yy00MDZmLWI4NzktNWRhZjliMzE4MDkyXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "1 hours 47 minutes",
+        "_Movie__description": "Ein verpfuschtes Kartenspiel in London lässt vier Freunde, Diebe, Marihuana-Züchter, Schwerverbrecher, Kredithaie und Schuldeneintreiber in einer Reihe unerwarteter Ereignisse aufeinandertreffen, und alles nur für ein bisschen Gra...",
+        "_Movie__director": "Guy Ritchie",
+        "_Movie__genre": "Action, Komödie, Krimi"
+    },
+    {
+        "_Movie__title": "El secreto de sus ojos",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMTdmNGY1NTgtNGNlNS00MGVlLWE3ZGMtNWFlOTY3MzY1MDM4XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "2 hours 9 minutes",
+        "_Movie__description": "Ein pensionierter Rechtsberater beschließt, einen Roman zu schreiben, um endlich Licht in einen seiner letzten ungelösten Mordfälle sowie die unerwiderte Liebe zu seiner Vorgesetzten zu bringen - beides Dinge, die ihn seit Jahrzeh...",
+        "_Movie__director": "Juan José Campanella",
+        "_Movie__genre": "Drama, Mystery, Liebesfilm"
+    },
+    {
+        "_Movie__title": "V for Vendetta",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNGIyYTczYWEtMjIzZi00MWMwLTg4YjgtM2Q2MDlkOTAyNmNiXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 12 minutes",
+        "_Movie__description": "In einem tyrannisch regierten Großbritannien der Zukunft plant ein undurchsichtiger Freiheitskämpfer, der nur unter dem Decknamen &quot;V&quot; bekannt ist, mit Hilfe einer jungen Frau einen Umsturz.",
+        "_Movie__director": "James McTeigue",
+        "_Movie__genre": "Action, Drama, Science-Fiction"
+    },
+    {
+        "_Movie__title": "Inside Out",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BM2Y4YjlhMTktMWY0MC00MWMzLTk4MWItMTI2OWRkNDA0ZDA2XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "1 hours 35 minutes",
+        "_Movie__description": "Die junge Riley wird plötzlich aus ihrem Leben im mittleren Westen gerissen, als Sie nach San Francisco umziehen muss. Ihre Emotionen - Freude, Angst, Wut, Abscheu und Traurigkeit - stehen dabei im Konflikt mit der Erkundung einer...",
+        "_Movie__director": "Pete Docter, Ronnie Del Carmen",
+        "_Movie__genre": "Animation, Abenteuer, Komödie"
+    },
+    {
+        "_Movie__title": "Three Billboards Outside Ebbing, Missouri",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNGZmYzJjODctMTBiNS00MjhlLTliMzItMjI1YzE3NDZmNTk1XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "1 hours 55 minutes",
+        "_Movie__description": "In diesem düster-komischen Drama setzt sich eine Mutter persönlich mit den örtlichen Behörden auseinander, um den Mord an ihrer Tochter zu lösen, als es diesen nicht gelingt, den Täter zu fassen.",
+        "_Movie__director": "Martin McDonagh",
+        "_Movie__genre": "Komödie, Krimi, Drama"
+    },
+    {
+        "_Movie__title": "Raging Bull",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNzFmMGQ2ZjQtZjBlYS00ODUyLWFhYWEtNGRkODFlMGJlNmY4XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 9 minutes",
+        "_Movie__description": "Der hoch emotionale und selbstzerstörerische Lebensweg eines Boxers, den Gewalt und Zorn zu den Größten im Ring aufsteigen lassen und gleichzeitig sein Leben draußen zerstören.",
+        "_Movie__director": "Martin Scorsese",
+        "_Movie__genre": "Biografie, Drama, Sportfilm"
+    },
+    {
+        "_Movie__title": "Trainspotting",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BOThlYTljNjItMGMyYy00N2Y5LWFkNmQtYWM2YmJiMmRmNjNlXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "1 hours 33 minutes",
+        "_Movie__description": "Renton, tief in der Drogenszene Edinburghs verwurzelt, versucht reinen Tisch zu machen und auszusteigen, trotz der großen Anziehungskraft der Drogen und des Einflusses seiner Freunde.",
+        "_Movie__director": "Danny Boyle",
+        "_Movie__genre": "Drama"
+    },
+    {
+        "_Movie__title": "The Bridge on the River Kwai",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNDE2ZDQ0NGMtZjFjMi00MDUzLTk3MWEtYzA5MmVlMTY5ZTZlXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 41 minutes",
+        "_Movie__description": "Nachdem er seine Differenzen mit einem japanischen Kommandeur eines Kriegsgefangenenlagers aus dem Weg geräumt hat, beaufsichtigt ein britischer Oberstleutnant seine Männer beim Bau einer Eisenbahnbrücke und kooperiert mit dem Fei...",
+        "_Movie__director": "David Lean",
+        "_Movie__genre": "Abenteuer, Drama, Kriegsfilm"
+    },
+    {
+        "_Movie__title": "Klaus",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BOWUzNDA2NjUtMDY0OC00YWJhLTk1ZjEtNzViNWNhZGJmMjA0XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "1 hours 36 minutes",
+        "_Movie__description": "Gutes zieht Gutes an, selbst an einem gefrorenen, fernen Ort. Als der Briefträger Jesper, sich mit dem Spielzeughersteller Klaus anfreundet, schmelzen ihre Geschenke eine uralte Fehde und liefern einen Schlitten voller Urlaubstrad...",
+        "_Movie__director": "Sergio Pablos, Carlos Martínez López",
+        "_Movie__genre": "Animation, Abenteuer, Komödie"
+    },
+    {
+        "_Movie__title": "Catch Me If You Can",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMmI0OTc4NjEtMzIwZi00YzdiLTkwOWMtOGMyY2U4ZTY0ZWVhXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 21 minutes",
+        "_Movie__description": "Die wahre Geschichte von Frank Abagnale Jr., der vor seinem 19. Geburtstag erfolgreich Schecks im Wert mehrerer Millionen Dollar als Pilot bei Pan Am, Arzt und Staatsanwalt ergaunerte.",
+        "_Movie__director": "Steven Spielberg",
+        "_Movie__genre": "Biografie, Krimi, Drama"
+    },
+    {
+        "_Movie__title": "Fargo",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYjRkNzg2MjAtY2E5MS00MTNhLWE0MWMtYzZkNTY4ZTc4MDcxXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "1 hours 38 minutes",
+        "_Movie__description": "Jerry Lundegaards stümperhaft ausgeführtes Verbrechen scheitert an seinen vollkommen unfähigen Spießgesellen und der unnachgiebigen Polizeiarbeit der doch recht schwangeren Marge Gunderson.",
+        "_Movie__director": "Joel Coen, Ethan Coen",
+        "_Movie__genre": "Krimi, Thriller"
+    },
+    {
+        "_Movie__title": "Warrior",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMTQyMzIyMTU4OV5BMl5BanBnXkFtZTcwNzU4ODI3Nw@@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 20 minutes",
+        "_Movie__description": "Der jüngste Sohn eines alkoholsüchtigen, ehemaligen Boxers kehrt nach Hause zurück, wo ihn sein Vater für die Teilnahme an Mixed-Martial-Arts-Turnieren trainiert - ein Pfad, der ihn auf Kollisionskurs mit seinem mit ihm zerstritte...",
+        "_Movie__director": "Gavin O&apos;Connor",
+        "_Movie__genre": "Action, Drama, Sportfilm"
+    },
+    {
+        "_Movie__title": "Spider-Man: No Way Home",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNjc1YjE1ZDMtYTVlYy00NGZlLWExYmEtMTdlYzYwMzk5OWZlXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "2 hours 28 minutes",
+        "_Movie__description": "Da Spider-Mans Identität nun aufgedeckt ist, bittet Peter Doktor Strange um Hilfe. Als ein Zauber schiefgeht, tauchen gefährliche Feinde aus anderen Welten auf und zwingen Peter zu entdecken, was es wirklich bedeutet, Spider-Man z...",
+        "_Movie__director": "Jon Watts",
+        "_Movie__genre": "Action, Abenteuer, Fantasy"
+    },
+    {
+        "_Movie__title": "Gran Torino",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "1 hours 56 minutes",
+        "_Movie__description": "Walt Kowalski, ein frustrierter Veteran des Koreakriegs, setzt sich zum Ziel, seinen jugendlichen Nachbarn vom Volk der Hmong zu läutern, der versucht hatte, Kowalskis wertvollsten Besitz zu stehlen: einen Gran Torino Baujahr 1972.",
+        "_Movie__director": "Clint Eastwood",
+        "_Movie__genre": "Drama"
+    },
+    {
+        "_Movie__title": "Harry Potter and the Deathly Hallows - Part 2",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNGFhM2VhOTktOGYxOC00Yjc3LTlmMzEtZDZhYzAwYjVlYjVlXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 10 minutes",
+        "_Movie__description": "Harry, Ron und Hermione suchen nach Voldemorts verbliebenen Horkruxes. Sie wollen den dunklen Herrscher zerstören und die letzte Schlacht findet in Hogwarts statt.",
+        "_Movie__director": "David Yates",
+        "_Movie__genre": "Abenteuer, Familienfilm, Fantasy"
+    },
+    {
+        "_Movie__title": "Million Dollar Baby",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 12 minutes",
+        "_Movie__description": "Eine Frau, die weiß, was sie will, arbeitet mit einem abgebrühten Boxtrainer daran, Profiboxerin zu werden.",
+        "_Movie__director": "Clint Eastwood",
+        "_Movie__genre": "Drama, Sportfilm"
+    },
+    {
+        "_Movie__title": "Tonari no Totoro",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYWE1ODkzNmUtMjIyNy00ZjY3LTk0YTAtMDhiYTk4YzEzMjRlXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "1 hours 26 minutes",
+        "_Movie__description": "Als zwei Mädchen aufs Land ziehen, um dort ihrer kranken Mutter nahe zu sein, erleben sie im nahegelegenen Wald Abenteuer, denn dort leben die wundersamen Waldgeister.",
+        "_Movie__director": "Hayao Miyazaki",
+        "_Movie__genre": "Animation, Komödie, Familienfilm"
+    },
+    {
+        "_Movie__title": "Mad Max: Fury Road",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNTU2ZDkzMzItOWViYi00Yzg1LWJhZjItNjRhMGI1M2U4MGRhXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours",
+        "_Movie__description": "Eine Frau rebelliert auf der Suche nach ihrer Heimat gegen einen tyrannischen Herrscher im postapokalyptischen Australien und trifft dabei auf eine Gruppe weiblicher Gefangener, einen psychotischen Verehrer und einen Außenseiter n...",
+        "_Movie__director": "George Miller",
+        "_Movie__genre": "Action, Abenteuer, Science-Fiction"
+    },
+    {
+        "_Movie__title": "Bacheha-Ye aseman",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZWZlMjNhNzgtZGRhOS00Y2U5LThjOTctODNjZTI0ZTBiYzBhXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "1 hours 29 minutes",
+        "_Movie__description": "Nachdem ein Junge die Schuhe seiner Schwester verloren hat, bricht er zu einer Reihe von Abenteuern auf, um sie wiederzufinden. Als das nicht klappt, versucht er auf einem anderen Weg ein neues Paar Schuhe zu &quot;gewinnen&quot;.",
+        "_Movie__director": "Majid Majidi",
+        "_Movie__genre": "Drama, Familienfilm, Sportfilm"
+    },
+    {
+        "_Movie__title": "Ben-Hur",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNjg2M2E1YzYtOThmMC00NjAyLWI5MzgtMDEwOGFiODdlOGUzXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "3 hours 32 minutes",
+        "_Movie__description": "Nachdem ein jüdischer Prinz von einem römischen Freund betrogen und in die Sklaverei geschickt wurde, erlangt er seine Freiheit wieder und kehrt zurück, um sich zu rächen.",
+        "_Movie__director": "William Wyler",
+        "_Movie__genre": "Abenteuer, Drama"
+    },
+    {
+        "_Movie__title": "12 Years a Slave",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BM2Q0MDg3NTMtZWNhMy00OTFlLWI0OTgtZTBkMzZmYjYyOWU3XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 14 minutes",
+        "_Movie__description": "In den Vereinigten Staaten vor dem Bürgerkrieg wird Solomon Northup, ein freier Schwarzer aus dem Hinterland New Yorks, entführt und in die Sklaverei verkauft.",
+        "_Movie__director": "Steve McQueen",
+        "_Movie__genre": "Biografie, Drama, Geschichte"
+    },
+    {
+        "_Movie__title": "Barry Lyndon",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNmM2MGQ5Y2UtYzA3ZC00ZDJlLTkwNDYtMjBmZGExZDJiN2RlXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "3 hours 5 minutes",
+        "_Movie__description": "Im England des 18. Jahrhunderts gewinnt ein irischer Schurke das Herz einer reichen Witwe und übernimmt die aristokratische Stellung ihres verstorbenen Ehemanns.",
+        "_Movie__director": "Stanley Kubrick",
+        "_Movie__genre": "Abenteuer, Drama, Kriegsfilm"
+    },
+    {
+        "_Movie__title": "Before Sunrise",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMDk3YWRkODctY2E1Ni00MTQwLThmOTEtNTNkOTNjNWU5ZWM1XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "1 hours 41 minutes",
+        "_Movie__description": "Ein junger Mann und eine Frau treffen sich in einem Zug in Europa, bis sie schließlich einen gemeinsamen Abend in Wien verbringen. Leider wissen sie jedoch auch, dass es wahrscheinlich ihr letzter gemeinsamer Abend sein wird.",
+        "_Movie__director": "Richard Linklater",
+        "_Movie__genre": "Drama, Liebesfilm"
+    },
+    {
+        "_Movie__title": "Blade Runner",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BM2E5NWNiYWMtMDY0OS00MmIwLWI2MDctNjA5Y2NmZGJlNjQ4XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "1 hours 57 minutes",
+        "_Movie__description": "Ein Blade Runner muss vier Replikanten verfolgen und versuchen, sie zu eliminieren, weil sie ein Raumschiff gestohlen haben und zur Erde zurückgekehrt sind, um ihren Schöpfer zu finden.",
+        "_Movie__director": "Ridley Scott",
+        "_Movie__genre": "Action, Drama, Science-Fiction"
+    },
+    {
+        "_Movie__title": "The Grand Budapest Hotel",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNzA5NzI4NGQtNTg5MC00OGI1LWFiMzgtNTcxZjIyOTEzNjg3XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "1 hours 39 minutes",
+        "_Movie__description": "Die Abenteuer von Gustave H, einem legendären Portier eines berühmten Hotels in der fiktionalen Republik Zubrowka der Zwischenkriegszeit, und Zéro Moustafa, dem Lobby Boy, der zu seinem treuesten Freund wird.",
+        "_Movie__director": "Wes Anderson",
+        "_Movie__genre": "Abenteuer, Komödie, Krimi"
+    },
+    {
+        "_Movie__title": "Hacksaw Ridge",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYjNkMmU1YmYtZjIxYy00ZTM5LWI3YmQtZGQzMjBmMzNjNjljXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 19 minutes",
+        "_Movie__description": "Desmond T. Doss, der im 2. Weltkrieg als amerikanischer Sanitätssoldat an der Schlacht von Okinawa beteiligt war, weigert sich, Menschen zu töten, und ist der erste Mann in der Geschichte der USA, der die Medal of Honor erhält, oh...",
+        "_Movie__director": "Mel Gibson",
+        "_Movie__genre": "Biografie, Drama, Geschichte"
+    },
+    {
+        "_Movie__title": "Gone Girl",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZjIzMzBhNDctNDQzNy00ODdiLWIwY2EtZGZlMjY5Y2Q4M2Y5XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 29 minutes",
+        "_Movie__description": "Nachdem das Verschwinden seiner Frau zum Mittelpunkt eines riesigen Medienzirkus geworden ist, sieht sich ein Mann plötzlich selbst im Rampenlicht stehen, als der Verdacht entsteht, er könne wohl nicht ganz unschuldig sein.",
+        "_Movie__director": "David Fincher",
+        "_Movie__genre": "Drama, Mystery, Thriller"
+    },
+    {
+        "_Movie__title": "Maharaja",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BOTFlMTIxOGItZTk0Zi00MTk2LWJiM2UtMzlhZWYzNjQ4N2Y3XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.5,
+        "_Movie__duration": "2 hours 21 minutes",
+        "_Movie__description": "Ein Friseur will sich rächen, nachdem in sein Haus eingebrochen wurde. Er teilt der Polizei kryptisch mit, dass seine &quot;Lakshmi&quot; entwendet wurde, und lässt sie im Unklaren darüber, ob es sich um eine Person oder einen Gegenstand ha...",
+        "_Movie__director": "Nithilan Saminathan",
+        "_Movie__genre": "Action, Krimi, Drama"
+    },
+    {
+        "_Movie__title": "Dead Poets Society",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZTUxYmMzZDEtYjk2YS00MWUzLWIyZjUtNDRjYWI4N2RhY2IzXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 8 minutes",
+        "_Movie__description": "Der Englischlehrer John Keating inspiriert seine Schüler, sich der Dichtkunst aus einer anderen Perspektive anzunähern: mithilfe authentischer Erkenntnisse und Gefühle.",
+        "_Movie__director": "Peter Weir",
+        "_Movie__genre": "Komödie, Drama"
+    },
+    {
+        "_Movie__title": "Salinui chueok",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYmRjOWE5NmMtYTdkYS00ODFlLWJiMTMtYzE2NDZlZjlkZDQ0XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 11 minutes",
+        "_Movie__description": "In einer kleinen koreanischen Provinz kämpften 1986 drei Detektive mit dem Fall, dass mehrere junge Frauen von einem unbekannten Täter vergewaltigt und ermordet aufgefunden wurden.",
+        "_Movie__director": "Bong Joon Ho",
+        "_Movie__genre": "Krimi, Drama, Mystery"
+    },
+    {
+        "_Movie__title": "In the Name of the Father",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYTIwMWEwMDQtMjAwMS00NDRjLWI5ZWUtZWM5MTgxMTFjOWVkXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 13 minutes",
+        "_Movie__description": "Das erzwungene Geständnis eines Mannes, an einem Bombenattentat der IRA beteiligt gewesen zu sein, führt auch noch zur Verhaftung seines Vaters. Ein englischer Rechtsanwalt kämpft für ihre Freilassung.",
+        "_Movie__director": "Jim Sheridan",
+        "_Movie__genre": "Biografie, Krimi, Drama"
+    },
+    {
+        "_Movie__title": "The Gold Rush",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BOGU2OTgxYmYtNGRiYS00NmMyLTk4NDQtNGZhODI4MzJjMDYzXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "1 hours 35 minutes",
+        "_Movie__description": "Ein Glücksritter macht sich auf zum Klondike, um nach Gold zu suchen, findet es und noch mehr.",
+        "_Movie__director": "Charles Chaplin",
+        "_Movie__genre": "Abenteuer, Komödie, Drama"
+    },
+    {
+        "_Movie__title": "Monsters, Inc.",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYzY5M2NmZGUtMGM2Zi00NmM4LWIxNTktNjc1NzQ2YzBjZmY5XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "1 hours 32 minutes",
+        "_Movie__description": "Um die Stadt mit Energie zu versorgen, müssen Monster nachts Kinder erschrecken, sodass sie schreien. Kinder sind für Monster jedoch wie Gift und als ihnen ein Kind entweicht, stellen zwei Monster fest, dass die Dinge vielleicht d...",
+        "_Movie__director": "Pete Docter, David Silverman, Lee Unkrich",
+        "_Movie__genre": "Animation, Abenteuer, Komödie"
+    },
+    {
+        "_Movie__title": "Relatos salvajes",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BODQwNmRjOWEtNjdkOS00OTViLTk4MDQtMjkwMWE0NWQ3YzYzXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 2 minutes",
+        "_Movie__description": "Sechs kurze Geschichten, in denen Extremformen des menschlichen Verhaltens erforscht werden und Menschen in große Bedrängnis geraten.",
+        "_Movie__director": "Damián Szifron",
+        "_Movie__genre": "Komödie, Drama, Thriller"
+    },
+    {
+        "_Movie__title": "The Deer Hunter",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMzMzNDczZjQtODlkYi00YTE5LWI5ZjItYjZkMmI3NzU1N2RkXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "3 hours 3 minutes",
+        "_Movie__description": "Eine eingehende Untersuchung dessen, wie der Vietnamkrieg auf verschiedene Art und Weise das Leben der Menschen in einer kleinen Industriestadt in Pennsylvania beeinflusst und zerrüttet.",
+        "_Movie__director": "Michael Cimino",
+        "_Movie__genre": "Drama, Kriegsfilm"
+    },
+    {
+        "_Movie__title": "The General",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMTY0NjU3MzQyOF5BMl5BanBnXkFtZTgwOTEyODg5MTE@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "1 hours 18 minutes",
+        "_Movie__description": "Nachdem im Amerikanischen Bürgerkrieg Spione des Unionsheeres das heißgeliebte Dampfross des Lokführers gestohlen haben, übernimmt dieser im Alleingang die Verfolgung, quer durch alle feindlichen Linien.",
+        "_Movie__director": "Clyde Bruckman, Buster Keaton",
+        "_Movie__genre": "Action, Abenteuer, Komödie"
+    },
+    {
+        "_Movie__title": "Sherlock Jr.",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZWFhOGU5NDctY2Q3YS00Y2VlLWI1NzEtZmIwY2ZiZjY4OTA2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "45 minutes",
+        "_Movie__description": "Ein Filmvorführer, der sich danach sehnt, als Detektiv zu arbeiten, muss seine bescheidenen Fertigkeiten einsetzen, als er von einem Rivalen hereingelegt und beschuldigt wird, die Taschenuhr des Vaters seiner Freundin gestohlen zu...",
+        "_Movie__director": "Buster Keaton",
+        "_Movie__genre": "Action, Komödie, Liebesfilm"
+    },
+    {
+        "_Movie__title": "Jaws",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYTUwZDAyNGQtZjg1NC00MjYxLWJlYzUtNWQxYThhZDU4OGEzXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 4 minutes",
+        "_Movie__description": "Der kleine Badeort Amity Island wird von einem gefräßigen Hai heimgesucht, bis sich ein Polizist, ein Meeresbiologe und ein alter Fischer aufmachen, ihn zur Strecke zu bringen.",
+        "_Movie__director": "Steven Spielberg",
+        "_Movie__genre": "Abenteuer, Drama, Thriller"
+    },
+    {
+        "_Movie__title": "Ratatouille",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BM2JhYjUwM2EtMzI5ZC00ZTQwLTgwY2YtNzIzMmQ5ZGEzZjlmXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "1 hours 51 minutes",
+        "_Movie__description": "In einem berühmten Restaurant bilden eine Ratte, die kochen kann und ein junger Küchenarbeiter ein ungewöhnliches Team.",
+        "_Movie__director": "Brad Bird, Jan Pinkava",
+        "_Movie__genre": "Animation, Abenteuer, Komödie"
+    },
+    {
+        "_Movie__title": "How to Train Your Dragon",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BOTQyNjNlMjctYzY5YS00NzVmLWIyMmQtNzRlNGEzOThlMmRlXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "1 hours 38 minutes",
+        "_Movie__description": "Eine unglückliche junge Wikinger, Drachen jagen will, wird unwahrscheinlich Freund eines jungen Drachen selbst und erfährt dort möglicherweise mehr zu den Kreaturen, als er angenommen.",
+        "_Movie__director": "Dean DeBlois, Chris Sanders",
+        "_Movie__genre": "Animation, Action, Abenteuer"
+    },
+    {
+        "_Movie__title": "On the Waterfront",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMTkxNzgyMzExMF5BMl5BanBnXkFtZTgwMTI2OTI3MjE@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "1 hours 48 minutes",
+        "_Movie__description": "Ein ehemaliger Preisboxer und Hafenarbeiter kämpft darum, seinen korrupten Gewerkschaftsbossen standzuhalten.",
+        "_Movie__director": "Elia Kazan",
+        "_Movie__genre": "Krimi, Drama, Thriller"
+    },
+    {
+        "_Movie__title": "Mary and Max.",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYWZlNjcxNTItOWQ1NS00OTQ4LTk0MDktMjg2NjYyYWNkNjJiXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "1 hours 32 minutes",
+        "_Movie__description": "Die Geschichte einer recht merkwürdigen Brieffreundschaft: Mary, ein einsames, achtjähriges Mädchen, das in der Vorstadt von Melbourne lebt, und Max, ein vierundvierzigjähriger, massiv fettleibiger Mann, der in New York wohnt.",
+        "_Movie__director": "Adam Elliot",
+        "_Movie__genre": "Animation, Komödie, Drama"
+    },
+    {
+        "_Movie__title": "Le salaire de la peur",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMDdhOGMwODQtZGM2MS00NGQxLWEyZDMtOTkzMjFjYjI3ZmM2XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 30 minutes",
+        "_Movie__description": "In einem heruntergekommenen südamerikanischen Dorf werden ein paar Männer für einen dringenden Nitroglyzerintransport angeheuert, ohne dass dafür die notwendige Sicherheitsausrüstung vorhanden wäre.",
+        "_Movie__director": "Henri-Georges Clouzot",
+        "_Movie__genre": "Abenteuer, Drama, Thriller"
+    },
+    {
+        "_Movie__title": "Smultronstället",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZWQ5MDllM2EtZWRmNS00MmZiLWI4ZWQtMjRiY2Q5MTAxODY4XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "1 hours 32 minutes",
+        "_Movie__description": "Am Ende eines von Gefühlskälte geprägten Lebens wird ein in die Jahre gekommener Professor mit der Leere seiner Existenz konfrontiert.",
+        "_Movie__director": "Ingmar Bergman",
+        "_Movie__genre": "Drama, Liebesfilm"
+    },
+    {
+        "_Movie__title": "The Third Man",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZmQwMjYwNjktNTYyMi00YzUzLWI5NDYtODMwNTRkOGEzNDg5XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "1 hours 44 minutes",
+        "_Movie__description": "Der Autor Holly Martins reist in ein düsteres Wien der Nachkriegszeit, wo er den mysteriösen Tod seines alten Freundes Harry Lime untersucht.",
+        "_Movie__director": "Carol Reed",
+        "_Movie__genre": "Film Noir, Mystery, Thriller"
+    },
+    {
+        "_Movie__title": "Ford v Ferrari",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYmM5YTI1MzAtOTIxYi00NzFmLWIzZDctNTY1MmEwODU0NzUzXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 32 minutes",
+        "_Movie__description": "Die wahre Geschichte des Kampfes zwischen Ford und Ferrari um den Sieg von Le Mans im Jahr 1966.",
+        "_Movie__director": "James Mangold",
+        "_Movie__genre": "Action, Biografie, Drama"
+    },
+    {
+        "_Movie__title": "Mr. Smith Goes to Washington",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BOGFhZWE2NjMtNGFkMi00NDA3LTgxM2MtN2YxOTAwNzk5YmJkXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 9 minutes",
+        "_Movie__description": "Ein recht unbedarfter, doch unbestechlicher Mann wird dazu ernannt, einen freigewordenen Posten im amerikanischen Senat zu übernehmen. Seine guten Absichten kommen alsbald der politischen Korruption ins Gehege, doch zurücktreten w...",
+        "_Movie__director": "Frank Capra",
+        "_Movie__genre": "Komödie, Drama"
+    },
+    {
+        "_Movie__title": "Logan",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMDVhZGM0NmItMjQ5NS00ZjlhLWE3MDItNWVjM2UyMTYwYzc1XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 17 minutes",
+        "_Movie__description": "In der nahen Zukunft kümmert sich ein müder Logan in einem Versteck an der mexikanischen Grenze um den kränkelnden Professor X. Logans Versuche, sich vor der Welt und seinem Erbe zu verstecken, finden jedoch ein jähes Ende, als ei...",
+        "_Movie__director": "James Mangold",
+        "_Movie__genre": "Action, Drama, Science-Fiction"
+    },
+    {
+        "_Movie__title": "Tôkyô monogatari",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZjY4YTBiZDItNGE1Yy00ODQ3LTk4OTItNjFkMjY0MWY0ZmY4XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 16 minutes",
+        "_Movie__description": "Ein älteres Ehepaar besucht seine Kinder und Enkelkinder in der Stadt; doch die Kinder haben kaum Zeit für sie.",
+        "_Movie__director": "Yasujirô Ozu",
+        "_Movie__genre": "Drama"
+    },
+    {
+        "_Movie__title": "Rocky",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZDk4MGM3ZjAtYjE2YS00YTY3LWI4OWQtZDMzZGY1NmMzN2U1XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours",
+        "_Movie__description": "Rocky Balbao, ein kleines Licht am Boxerhimmel, erhält plötzlich die einmalige Chance, gegen den Schwergewichtsweltmeister, Apollo Creed, in den Ring zu treten, wo er schließlich versucht, seine Selbstachtung zu bewahren und über ...",
+        "_Movie__director": "John G. Avildsen",
+        "_Movie__genre": "Drama, Sportfilm"
+    },
+    {
+        "_Movie__title": "The Big Lebowski",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMzliZDk0NjctNjhlOC00MWEyLWI3OWYtNjA5ZDYxMTMzNTc5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "1 hours 57 minutes",
+        "_Movie__description": "Der &quot;Dude&quot; mit Nachnamen Lebowski wird fälschlicherweise für den Millionär Lebowski gehalten und verlangt mit Hilfe seiner Bowling-Kumpel Entschädigung für seinen ruinierten Teppich.",
+        "_Movie__director": "Joel Coen, Ethan Coen",
+        "_Movie__genre": "Komödie, Krimi"
+    },
+    {
+        "_Movie__title": "Det sjunde inseglet",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BOGYyMTc2ODEtZDc1Ny00ZWIwLWE5ZWYtM2I5OGZmMWVkY2VhXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "1 hours 36 minutes",
+        "_Movie__description": "Ein Mann sucht nach Antworten auf Fragen zu Leben, Tod und der Existenz Gottes, als er während der Pest eine Partie Schach gegen den Sensenmann spielt.",
+        "_Movie__director": "Ingmar Bergman",
+        "_Movie__genre": "Drama, Fantasy"
+    },
+    {
+        "_Movie__title": "Room",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZGNmMjk2NGItZmEyYy00NDFhLTlmN2ItNjJhYWY0ZWM1OTcwXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "1 hours 58 minutes",
+        "_Movie__description": "Ein kleiner Junge wird seit seiner Geburt in einem Raum mit seiner Mutter gehalten, deshalb kennt er die Außenwelt nicht.",
+        "_Movie__director": "Lenny Abrahamson",
+        "_Movie__genre": "Drama, Thriller"
+    },
+    {
+        "_Movie__title": "Spotlight",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BOGRlMTY2ZTQtMmI5NS00ZWI3LTg3MmQtZmQ5OGMzYjY0ZGFmXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 9 minutes",
+        "_Movie__description": "Die wahre Geschichte, wie der Boston Globe den weitreichenden Skandal von Kindermissbrauch und Vertuschung durch die katholische Erzdiözese aufdeckte, der die gesamte katholische Kirche bis in ihre Grundfesten erschütterte.",
+        "_Movie__director": "Tom McCarthy",
+        "_Movie__genre": "Biografie, Krimi, Drama"
+    },
+    {
+        "_Movie__title": "The Terminator",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNjk0NzMyMjQzN15BMl5BanBnXkFtZTgwNjM5MTk5MDE@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "1 hours 47 minutes",
+        "_Movie__description": "Ein menschenähnlicher, unzerstörbarer Cyborg wird 2029 zurück in das Jahr 1984 geschickt, um eine Serviererin zu ermorden, deren noch ungeborener Sohn die Menschheit einmal im Kampf gegen die Maschinen anführen wird, während gleic...",
+        "_Movie__director": "James Cameron",
+        "_Movie__genre": "Action, Abenteuer, Science-Fiction"
+    },
+    {
+        "_Movie__title": "Hotel Rwanda",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYThkYjg1MzgtODllZC00YmIzLTk5YjAtNGVjZDIzNGUxMjAzXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 1 minutes",
+        "_Movie__description": "Paul Rusesabagina war ein Hotelmanager in Ruanda, der über eintausend Tutsi bei sich aufnahm, als diese vor der Miliz der Hutu flüchteten.",
+        "_Movie__director": "Terry George",
+        "_Movie__genre": "Biografie, Drama, Geschichte"
+    },
+    {
+        "_Movie__title": "Platoon",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNDViODhmNjEtNWQ2Zi00MDdjLWIzMjAtODA4NjI1Y2I0YmIzXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours",
+        "_Movie__description": "Ein junger Rekrut in Vietnam gerät in eine moralische Krise, als er sich mit den Schrecken des Krieges und der Doppelnatur des Menschen konfrontiert sieht.",
+        "_Movie__director": "Oliver Stone",
+        "_Movie__genre": "Drama, Kriegsfilm"
+    },
+    {
+        "_Movie__title": "La haine",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BY2ZmODgwYTEtODVhMy00MzBjLWE4YWQtYTkzNzVmZGIxMDlkXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "1 hours 38 minutes",
+        "_Movie__description": "24 Stunden im Leben von drei jungen Männern in französischen Vorstädten, einen Tag nach gewalttätigen Ausschreitungen.",
+        "_Movie__director": "Mathieu Kassovitz",
+        "_Movie__genre": "Krimi, Drama"
+    },
+    {
+        "_Movie__title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMTIzODgzNDM5M15BMl5BanBnXkFtZTcwMjU3NDAwMQ@@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 23 minutes",
+        "_Movie__description": "Waffenschmied Will Turner tut sich mit dem exzentrischen Piraten &quot;Captain&quot; Jack Sparrow zusammen, um seine große Liebe, die Tochter des Gouverneurs, aus den Händen der Piraten zu retten, die früher mit Jack verbündet waren, jetzt ...",
+        "_Movie__director": "Gore Verbinski",
+        "_Movie__genre": "Action, Abenteuer, Fantasy"
+    },
+    {
+        "_Movie__title": "Before Sunset",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BODc0M2Y5NGEtMDBjYy00NGVjLWExMTYtNzFiODZmYTc3ZmVjXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "1 hours 20 minutes",
+        "_Movie__description": "Neun Jahre nach dem ersten Treffen zwischen Jesse und Celine begegnen sie sich auf der französischen Etappe von Jesses Buchtournee wieder.",
+        "_Movie__director": "Richard Linklater",
+        "_Movie__genre": "Drama, Liebesfilm"
+    },
+    {
+        "_Movie__title": "La passion de Jeanne d'Arc",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZmI0Y2NkZmMtYjFmMi00ZTMxLWIyN2ItNjM2NmJhMWI4MTNiXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "1 hours 50 minutes",
+        "_Movie__description": "Eine Chronik des Prozesses gegen die der Ketzerei angeklagten Jungfrau von Orléans und der Anstrengungen ihrer kirchlichen Richter, sie zur Widerrufung ihrer heiligen Visionen zu zwingen.",
+        "_Movie__director": "Carl Theodor Dreyer",
+        "_Movie__genre": "Biografie, Drama, Geschichte"
+    },
+    {
+        "_Movie__title": "Jai Bhim",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZjEyNDIzNmEtMjdkYS00ZDAwLTljOWYtNDRhYTVhYTlmOTk1XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.7,
+        "_Movie__duration": "2 hours 44 minutes",
+        "_Movie__description": "Als ein Stammesangehöriger wegen eines angeblichen Diebstahls verhaftet wird, wendet sich seine Frau an einen Menschenrechtsanwalt, um Gerechtigkeit zu erreichen.",
+        "_Movie__director": "T.J. Gnanavel",
+        "_Movie__genre": "Krimi, Drama, Mystery"
+    },
+    {
+        "_Movie__title": "The Best Years of Our Lives",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNGRmNjVjMjMtMjM3OC00OTdjLWEwNGYtMWM1MWM5ZTNjMTQ0XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 50 minutes",
+        "_Movie__description": "Drei Veteranen kehren nach Ende des Zweiten Weltkriegs in eine amerikanische Kleinstadt zurück, wo sie entdecken, dass sie und ihre Familien sich unwiderruflich geändert haben.",
+        "_Movie__director": "William Wyler",
+        "_Movie__genre": "Drama, Liebesfilm, Kriegsfilm"
+    },
+    {
+        "_Movie__title": "The Exorcist",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZjA1YjgxYzctZDBmZS00OThkLWJlODEtMzU3Zjk4ZmFlZmJlXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 2 minutes",
+        "_Movie__description": "Als eine Teenagerin von einem mysteriösen Wesen besessen wird, sucht ihre Mutter Hilfe bei zwei Priestern, die ihre Tochter retten sollen.",
+        "_Movie__director": "William Friedkin",
+        "_Movie__genre": "Horror"
+    },
+    {
+        "_Movie__title": "Rush",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMmRhYTFhZDQtZGExMS00MzcxLWI2YTctMWI2ZjhiMmUyNjNlXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 3 minutes",
+        "_Movie__description": "Der gnadenlose Konkurrenzkampf zwischen den beiden Formel-1-Rivalen James Hunt und Niki Lauda in den 1970er-Jahren.",
+        "_Movie__director": "Ron Howard",
+        "_Movie__genre": "Action, Biografie, Drama"
+    },
+    {
+        "_Movie__title": "The Incredibles",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNzNlNjMyNmUtMGE2Ni00YzJhLTlmNzgtY2E2MTA1NGU3YjBkXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8,
+        "_Movie__duration": "1 hours 55 minutes",
+        "_Movie__description": "Eine Familie von Undercover-Superhelden wird, während sie versuchen, das ruhige Vorstadtleben zu leben, gezwungen, die Welt zu retten.",
+        "_Movie__director": "Brad Bird",
+        "_Movie__genre": "Animation, Action, Abenteuer"
+    },
+    {
+        "_Movie__title": "The Wizard of Oz",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMzIzMjE0MTU1MF5BMl5BanBnXkFtZTgwNDczMjM5MzE@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "1 hours 42 minutes",
+        "_Movie__description": "Dorothy Gale wird von einem Tornado in ein magisches Land fortgerissen, wo sie sich auf die Suche nach dem Zauberer begibt, der ihr dabei helfen kann, wieder nach Hause zurückzukehren.",
+        "_Movie__director": "Victor Fleming, King Vidor",
+        "_Movie__genre": "Abenteuer, Familienfilm, Fantasy"
+    },
+    {
+        "_Movie__title": "Network",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMjg1MDZkNmMtOWM2Mi00MDM0LWE1YjQtNzE2NWJjOTc2ODdmXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 1 minutes",
+        "_Movie__description": "Ein Fernsehsender benutzt die wirren Äußerungen und Enthüllungen, die ein geistig verwirrter, ehemaliger Moderator über die Nachrichtenmedien machte, zynisch zum eigenen Vorteil.",
+        "_Movie__director": "Sidney Lumet",
+        "_Movie__genre": "Drama"
+    },
+    {
+        "_Movie__title": "Stand by Me",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BY2U4YmIxZDgtM2FiYi00ZTBiLTkzMTktMjVjYTI4ZWUwYzNlXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "1 hours 29 minutes",
+        "_Movie__description": "Nach dem Tod eines Freundes erzählt ein Schriftsteller von einer Wanderung in ihrer Jugendzeit, die sie gemeinsam unternahmen, um den toten Körper eines vermissten Jungen zu finden.",
+        "_Movie__director": "Rob Reiner",
+        "_Movie__genre": "Abenteuer, Komödie, Drama"
+    },
+    {
+        "_Movie__title": "Hachi: A Dog's Tale",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMDQ0MzJmNzUtNjlkZi00ZjgwLTkyNTgtYzRkZDAxNTE5YjMwXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "1 hours 33 minutes",
+        "_Movie__description": "Die Bindung eines College-Professors an einen herrenlosen Hund, den er mit nach Hause nimmt.",
+        "_Movie__director": "Lasse Hallström",
+        "_Movie__genre": "Biografie, Drama, Familienfilm"
+    },
+    {
+        "_Movie__title": "The Sound of Music",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMDFjY2VlODMtYjc4Yy00NWRlLThhMTQtNTg1OTNkMjQ5YTUyXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 52 minutes",
+        "_Movie__description": "Eine Frau verlässt ein österreichisches Kloster, um die Gouvernante der Kinder eines verwitweten Marineoffiziers zu werden.",
+        "_Movie__director": "Robert Wise",
+        "_Movie__genre": "Biografie, Drama, Familienfilm"
+    },
+    {
+        "_Movie__title": "Babam ve Oglum",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZDE3MTBkNmQtNGFjMC00YTcwLWExY2ItN2MyMGZkNWJlMmFmXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "1 hours 52 minutes",
+        "_Movie__description": "Die Familie eines linken Journalisten wird nach einem Militärputsch in der Türkei der 1980&apos;er Jahre auseinandergerissen.",
+        "_Movie__director": "Çagan Irmak",
+        "_Movie__genre": "Drama, Familienfilm"
+    },
+    {
+        "_Movie__title": "Ah-ga-ssi",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BN2VkNTg3MmUtMzM2Yy00NzQ0LTljZDItYWM0ZjUxMjRmZjJmXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 25 minutes",
+        "_Movie__description": "Eine Frau wird als Dienerin einer japanischen Erbin eingestellt. Insgeheim ist sie jedoch Teil einer Verschwörung und soll sie hintergehen.",
+        "_Movie__director": "Park Chan-wook",
+        "_Movie__genre": "Drama, Liebesfilm, Thriller"
+    },
+    {
+        "_Movie__title": "To Be or Not to Be",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMTAwMDAyNzM4NjNeQTJeQWpwZ15BbWU4MDg2MDAyNDIx._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "1 hours 39 minutes",
+        "_Movie__description": "Während Polen von den Nazis besetzt ist, versucht eine Theatertruppe einem polnischen Soldaten dabei zu helfen, einen deutschen Spion aufzuspüren.",
+        "_Movie__director": "Ernst Lubitsch",
+        "_Movie__genre": "Komödie, Liebesfilm, Kriegsfilm"
+    },
+    {
+        "_Movie__title": "Into the Wild",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNTgwZTJhNWMtNzVjMy00YzQzLWI4MTAtYmJhOGQ5ZmQ3MDM0XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 28 minutes",
+        "_Movie__description": "Nach seinem Abschluss an der Emory University gibt der Topstudent und Spitzensportler Christopher McCandless sein Hab und Gut auf und spendet sein gesamtes Sparkonto in Höhe von 24.000 Dollar einer Wohltätigkeitsorganisation. Per ...",
+        "_Movie__director": "Sean Penn",
+        "_Movie__genre": "Abenteuer, Biografie, Drama"
+    },
+    {
+        "_Movie__title": "La battaglia di Algeri",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNjk1NDc5ODYtZWRmNy00NjQ2LWE5OGUtNWMwOThhZGM0MGM0XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 1 minutes",
+        "_Movie__description": "In den 1950er-Jahren eskaliert die Gewalt in Algier, wo die Bevölkerung für die Unabhängigkeit von der französischen Regierung kämpft.",
+        "_Movie__director": "Gillo Pontecorvo",
+        "_Movie__genre": "Drama, Kriegsfilm"
+    },
+    {
+        "_Movie__title": "The Grapes of Wrath",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZjQwZDNkMDgtYTkzOS00M2MxLTg1YTMtYjg3MGYxMGRjNjc5XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 9 minutes",
+        "_Movie__description": "Eine arme Familie im Mittleren Westen wird von ihrem Land vertrieben. Sie fahren nach Kalifornien, wo sie die Missgeschicke der Obdachlosen zur Zeit der Großen Depression miterleiden.",
+        "_Movie__director": "John Ford",
+        "_Movie__genre": "Drama"
+    },
+    {
+        "_Movie__title": "Groundhog Day",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BOTEzNTgxYmMtODE2MC00ZTc3LWFhMjYtMjY2ZWVmYmYyZGE0XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8,
+        "_Movie__duration": "1 hours 41 minutes",
+        "_Movie__description": "Ein Wetteransager stellt fest, dass er den gleichen Tag immer wieder aufs Neue erlebt.",
+        "_Movie__director": "Harold Ramis",
+        "_Movie__genre": "Komödie, Drama, Fantasy"
+    },
+    {
+        "_Movie__title": "The Iron Giant",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNTg5OTdjZmQtM2VjYi00YWU0LWFmNGQtZjk2ODNiODUzYTY5XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "1 hours 26 minutes",
+        "_Movie__description": "Ein kleiner Junge freundet sich mit einem riesigen Roboter aus dem All an, den ein paranoider Regierungsagent zerstören will.",
+        "_Movie__director": "Brad Bird",
+        "_Movie__genre": "Animation, Action, Abenteuer"
+    },
+    {
+        "_Movie__title": "Amores perros",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYjhiYWYyYjYtMjZlMS00YTZkLWI2MWUtNmQwZGI5MTI4MTBjXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8,
+        "_Movie__duration": "2 hours 34 minutes",
+        "_Movie__description": "Ein schrecklicher Autounfall verbindet drei Geschichten miteinander. In jeder von ihnen haben sich die Figuren mit Verlust, Reue und den harten Realitäten des Lebens auseinanderzusetzen, und alles im Namen der Liebe.",
+        "_Movie__director": "Alejandro G. Iñárritu",
+        "_Movie__genre": "Drama, Thriller"
+    },
+    {
+        "_Movie__title": "Rebecca",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BOTc0NWUxZTYtN2I0NS00MDlkLWI5YTUtN2JlMDZmZjMyM2IyXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 10 minutes",
+        "_Movie__description": "Eine selbstbewusste Braut wird von Erinnerungen an die verstorbene, erste Frau ihres zukünftigen Mannes gequält.",
+        "_Movie__director": "Alfred Hitchcock",
+        "_Movie__genre": "Drama, Mystery, Liebesfilm"
+    },
+    {
+        "_Movie__title": "The Help",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYzM1YmVhOWYtZjkxNS00NjA3LTkyMDEtMTQ5NjZlZWRhNGI3XkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 26 minutes",
+        "_Movie__description": "Ein ehrgeiziger Schriftsteller beschließt während der Bürgerrechtsbewegung in den 1960er-Jahren, ein detailliertes Buch über afro-amerikanische Hausangestellte zu schreiben, über ihre Sicht der weißen Familien, für die sie arbeite...",
+        "_Movie__director": "Tate Taylor",
+        "_Movie__genre": "Drama"
+    },
+    {
+        "_Movie__title": "Cool Hand Luke",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZDE1MTUzODEtNzI2OC00YjgzLWFlY2ItZDViZDhiODQ5NTFlXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 7 minutes",
+        "_Movie__description": "Ein Mann weigert sich, sich dem Leben in einer ländlichen Strafanstalt anzupassen.",
+        "_Movie__director": "Stuart Rosenberg",
+        "_Movie__genre": "Krimi, Drama"
+    },
+    {
+        "_Movie__title": "It Happened One Night",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYTYxZjVhOTAtOThlNi00OTkwLTg5ZjEtMjA2MzFmOGJiOWRkXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "1 hours 45 minutes",
+        "_Movie__description": "Eine verwöhnte Erbin, die von ihrer Familie weggerannt ist, bekommt Hilfe von einem Mann, der eigentlich ein Reporter auf der Suche nach einer Geschichte ist.",
+        "_Movie__director": "Frank Capra",
+        "_Movie__genre": "Komödie, Liebesfilm"
+    },
+    {
+        "_Movie__title": "Paris, Texas",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZmE0NGYyZTEtZDYyYy00YmY0LTkzZmQtZjI5ZTMxM2ViZGUxXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.1,
+        "_Movie__duration": "2 hours 25 minutes",
+        "_Movie__description": "Travis Henderson, ein zielloser Wanderer, der seit vier Jahren vermisst wird, kehrt aus der Wüste zurück und versucht, wieder Anschluss an die Gesellschaft, sich selbst, sein Leben und seine Familie zu finden.",
+        "_Movie__director": "Wim Wenders",
+        "_Movie__genre": "Drama"
+    },
+    {
+        "_Movie__title": "Scent of a Woman",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZTBmMDkwMjYtMzQ5ZS00NWQ2LThjNGItMTlmYTU2NzUyZmRkXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8,
+        "_Movie__duration": "2 hours 36 minutes",
+        "_Movie__description": "&quot;Ein Stipendiat, der Geld braucht, stimmt zu, einen blinden Mann zu &quot;&quot;babysitten&quot;&quot;, aber der Job ist überhaupt nicht das, was er erwartet hat.&quot;",
+        "_Movie__director": "Martin Brest",
+        "_Movie__genre": "Drama"
+    },
+    {
+        "_Movie__title": "Drishyam",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BM2NmMGFjYTYtNWEwNS00MTM4LWE2ZTktNzZjMTE0OTQyNjFiXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 8.2,
+        "_Movie__duration": "2 hours 43 minutes",
+        "_Movie__description": "Verzweifelte Maßnahmen werden von einem Mann ergriffen, der versucht, seine Familie von der dunklen Seite des Gesetzes zu retten, nachdem er ein unerwartetes Verbrechen begangen hat.",
+        "_Movie__director": "Nishikant Kamat",
+        "_Movie__genre": "Krimi, Drama, Mystery"
+    }
+]
