@@ -263,7 +263,7 @@ def update_movie_data(json_filename, new_movies):
 
 
 def scrap():
-
+    all_movies = []
     with Pool(processes=cpu_count()) as pool:
         result_lists = pool.map(fetch_movies, urls.values())
 
@@ -279,4 +279,4 @@ def scrap():
     print("All time: --- %s seconds ---" % (time.time() - main_start_time))
     
 if __name__ == '__main__':
-    all_movies = []
+    pass
