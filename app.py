@@ -41,8 +41,7 @@ def get_scaping():
         scap_status = 1
         try:
             print("start scraping",calltime())
-            print(scrap.scrap())
-            # time.sleep(60)
+            scrap.scrap()
             scap_status = 0
             print("scraping Succes",calltime())
             return jsonify({"message": "Scraping completed successfully."}), 200

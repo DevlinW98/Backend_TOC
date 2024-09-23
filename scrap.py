@@ -285,5 +285,5 @@ def scrap():
     save_to_json(json_filename, all_movies)
     save_to_csv(csv_filename, all_movies)
 
-    return("All time: --- %s seconds ---" % (time.time() - main_start_time))
+    print("All time: --- %s seconds ---" % (time.time() - main_start_time))
     
