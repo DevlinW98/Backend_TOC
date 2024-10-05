@@ -1,5 +1,22 @@
 [
-
+    {
+        "_Movie__title": "The Shawshank Redemption",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__score": 9.3,
+        "_Movie__duration": "2 hours 22 minutes",
+        "_Movie__description": "A banker convicted of uxoricide forms a friendship over a quarter century with a hardened convict, while maintaining his innocence and trying to remain hopeful through simple compassion.",
+        "_Movie__director": "Frank Darabont",
+        "_Movie__genre": "Drama"
+    },
+    {
+        "_Movie__title": "The Godfather",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "_Movie__score": 9.2,
+        "_Movie__duration": "2 hours 55 minutes",
+        "_Movie__description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "_Movie__director": "Francis Ford Coppola",
+        "_Movie__genre": "Crime, Drama"
+    },
     {
         "_Movie__title": "The Dark Knight",
         "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
@@ -20,7 +37,7 @@
     },
     {
         "_Movie__title": "12 Angry Men",
-        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYjE4NzdmOTYtYjc5Yi00YzBiLWEzNDEtNTgxZGQ2MWVkN2NiXkEyXkFqcGc@._V1_.jpg",
         "_Movie__score": 9,
         "_Movie__duration": "1 hours 36 minutes",
         "_Movie__description": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
@@ -67,7 +84,7 @@
         "_Movie__title": "Il buono, il brutto, il cattivo",
         "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMWM5ZjQxM2YtNDlmYi00ZDNhLWI4MWUtN2VkYjBlMTY1ZTkwXkEyXkFqcGc@._V1_.jpg",
         "_Movie__score": 8.8,
-        "_Movie__duration": "2 hours 41 minutes",
+        "_Movie__duration": "2 hours 58 minutes",
         "_Movie__description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
         "_Movie__director": "Sergio Leone",
         "_Movie__genre": "Adventure, Drama, Western"
@@ -911,7 +928,7 @@
     },
     {
         "_Movie__title": "Oppenheimer",
-        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_.jpg",
         "_Movie__score": 8.3,
         "_Movie__duration": "3 hours",
         "_Movie__description": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.",
@@ -940,7 +957,7 @@
         "_Movie__title": "M - Eine Stadt sucht einen Mörder",
         "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_.jpg",
         "_Movie__score": 8.3,
-        "_Movie__duration": "1 hours 57 minutes",
+        "_Movie__duration": "1 hours 39 minutes",
         "_Movie__description": "When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.",
         "_Movie__director": "Fritz Lang",
         "_Movie__genre": "Crime, Mystery, Thriller"
@@ -1066,7 +1083,7 @@
         "_Movie__title": "Snatch",
         "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYzk5NjJkMTQtN2IyNC00YWM5LTlhZmMtNGI3MWNhMTU1YTc4XkEyXkFqcGc@._V1_.jpg",
         "_Movie__score": 8.2,
-        "_Movie__duration": "1 hours 44 minutes",
+        "_Movie__duration": "1 hours 42 minutes",
         "_Movie__description": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
         "_Movie__director": "Guy Ritchie",
         "_Movie__genre": "Comedy, Crime"
@@ -1604,7 +1621,7 @@
     },
     {
         "_Movie__title": "Mad Max: Fury Road",
-        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZmFmMjlkMTQtOGFiZS00NzhlLTg2OWUtOTA3MWIwNmJkMjYzXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
         "_Movie__score": 8.1,
         "_Movie__duration": "2 hours",
         "_Movie__description": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshipper and a drifter named Max.",
@@ -1714,7 +1731,7 @@
         "_Movie__title": "Salinui chueok",
         "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYmRjOWE5NmMtYTdkYS00ODFlLWJiMTMtYzE2NDZlZjlkZDQ0XkEyXkFqcGc@._V1_.jpg",
         "_Movie__score": 8.1,
-        "_Movie__duration": "2 hours 11 minutes",
+        "_Movie__duration": "2 hours 12 minutes",
         "_Movie__description": "In a small Korean province in 1986, two detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit.",
         "_Movie__director": "Bong Joon Ho",
         "_Movie__genre": "Crime, Drama, Mystery"
@@ -1784,7 +1801,7 @@
     },
     {
         "_Movie__title": "Jaws",
-        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYmUyYzY5ZmUtZWE2ZC00N2RiLThkYjYtNGU5YzdiNWVhMTMwXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYjViNDQzNmUtYzkxZi00NTk5LTljMmItYjJlZmZkODIxNjU1XkEyXkFqcGc@._V1_.jpg",
         "_Movie__score": 8.1,
         "_Movie__duration": "2 hours 4 minutes",
         "_Movie__description": "When a massive killer shark unleashes chaos on a beach community off Long Island, it&apos;s up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
@@ -1849,7 +1866,7 @@
         "_Movie__title": "The Third Man",
         "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNTAwZjAwZDUtNDc1Yi00OGY3LTgzMjktYjIyMjQzOWE3MmVhXkEyXkFqcGc@._V1_.jpg",
         "_Movie__score": 8.1,
-        "_Movie__duration": "1 hours 44 minutes",
+        "_Movie__duration": "1 hours 33 minutes",
         "_Movie__description": "Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.",
         "_Movie__director": "Carol Reed",
         "_Movie__genre": "Film-Noir, Mystery, Thriller"
@@ -1937,7 +1954,7 @@
     },
     {
         "_Movie__title": "The Terminator",
-        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BODEyZTdhNTUtZjI2Yy00YzUxLTlhZjctODQ2MDg2M2IzN2IzXkEyXkFqcGc@._V1_.jpg",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
         "_Movie__score": 8.1,
         "_Movie__duration": "1 hours 47 minutes",
         "_Movie__description": "A cyborg assassin from the future attempts to find and kill Sarah Connor, a waitress who is destined to give birth to a man who will save humankind from extinction.",
@@ -1993,7 +2010,7 @@
         "_Movie__title": "La passion de Jeanne d'Arc",
         "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNTE1MDliZjgtYTU2Yy00YjAxLTljYTItNDE2ZGYwYTY1MGQ1XkEyXkFqcGc@._V1_.jpg",
         "_Movie__score": 8.1,
-        "_Movie__duration": "1 hours 50 minutes",
+        "_Movie__duration": "1 hours 54 minutes",
         "_Movie__description": "In 1431, Jeanne d&apos;Arc is placed on trial on charges of heresy. The ecclesiastical jurists attempt to force Jeanne to recant her claims of holy visions.",
         "_Movie__director": "Carl Theodor Dreyer",
         "_Movie__genre": "Biography, Drama, History"
@@ -2135,7 +2152,7 @@
     },
     {
         "_Movie__title": "The Grapes of Wrath",
-        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BNzJiOGI2MjctYjUyMS00ZjkzLWE2ZmUtOTg4NTZkOTNhZDc1L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+        "_Movie__url_picture": "https://m.media-amazon.com/images/M/MV5BZDgzZjk3OGYtNWI2Ny00MDg3LTgwYWEtNjI1ODAxNjA3ZmFlXkEyXkFqcGc@._V1_.jpg",
         "_Movie__score": 8.1,
         "_Movie__duration": "2 hours 9 minutes",
         "_Movie__description": "An Oklahoma family, driven off their farm by the poverty and hopelessness of the Dust Bowl, joins the westward migration to California, suffering the misfortunes of the homeless in the Great Depression.",
