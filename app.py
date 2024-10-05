@@ -43,9 +43,9 @@ def get_scaping():
             print("start scraping",calltime())
             scrap.scrap()
             scap_status = 0
-            print("scraping Succes",calltime())
-            return jsonify({"message": "Scraping completed successfully."}), 200
+            return jsonify({"message": "Scraping completed successfully."}), 200 , print("scraping Succes",calltime())
         except Exception as e:
+            scap_status = 0
             return jsonify({"error": str(e)}), 500
     else:
         return jsonify({"message": "Gonna scaping"}), 200
@@ -58,7 +58,7 @@ def get_status():
 
 @app.route('/download')
 def download_file():
-    file_path = 'Top250andBoxoffice.json'
+    file_path = 'Top250andBoxoffice.csv'
     return send_file(file_path, as_attachment=True)
 
 
